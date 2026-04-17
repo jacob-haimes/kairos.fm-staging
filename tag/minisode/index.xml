@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minisode | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/minisode/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/minisode/index.xml" rel="self" type="application/rss+xml"/><description>Minisode</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Minisode</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/minisode/</link></image><item><title>DeepSeek Minisode</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/b012/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/b012/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minisode | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/minisode/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/tag/minisode/index.xml" rel="self" type="application/rss+xml"/><description>Minisode</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Minisode</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/minisode/</link></image><item><title>DeepSeek Minisode</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/b012/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/b012/</guid><description>&lt;div style="text-align: justify">
 DeepSeek R1 has taken the world by storm, causing a stock market crash and prompting further calls for export controls within the US. Since this story is still very much in development, with follow-up investigations and calls for governance being released almost daily, we thought it best to hold of for a little while longer to be able to tell the whole story. Nonetheless, it's a big story, so we provide a brief overview of all that's out there so far.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -40,7 +40,7 @@ DeepSeek R1 has taken the world by storm, causing a stock market crash and promp
 &lt;li>&lt;a href="https://arxiv.org/abs/2502.03387" target="_blank" rel="noopener">Preprint&lt;/a> - LIMO: Less is More for Reasoning&lt;/li>
 &lt;li>&lt;a href="https://diffuse.one/p/d1-007" target="_blank" rel="noopener">Blogpost&lt;/a> - Reasoning Reflections&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2501.18576" target="_blank" rel="noopener">Preprint&lt;/a> - Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH&lt;/li>
-&lt;/ul></description></item><item><title>Restructure Vol. 2</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e016/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e016/</guid><description>&lt;div style="text-align: justify">
+&lt;/ul></description></item><item><title>Restructure Vol. 2</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e016/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e016/</guid><description>&lt;div style="text-align: justify">
 After getting some advice and reflecting more on my own personal goals, I have decided to shift the direction of the podcast towards accessible content regarding "AI" instead of the show's original focus. I will still be releasing what I am calling research ride-along content to my &lt;a href="https://www.patreon.com/IntoAISafety" target="_blank" rel="noreferrer noopener">Patreon&lt;/a>, but the show's feed will consist only of content that I aim to make as accessible as possible.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -55,7 +55,7 @@ After getting some advice and reflecting more on my own personal goals, I have d
 03:10 ❙ My personal goal&lt;br>
 05:39 ❙ Reflection on refining my goal&lt;br>
 09:08 ❙ Looking forward (logistics)
-&lt;/div></description></item><item><title>LLMs, A Survey</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e014/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e014/</guid><description>&lt;div style="text-align: justify">
+&lt;/div></description></item><item><title>LLMs, A Survey</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e014/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e014/</guid><description>&lt;div style="text-align: justify">
 Take a trip with me through the paper &lt;a href="https://arxiv.org/abs/2402.06196" target="_blank" rel="noreferrer noopener">Large Language Models, A Survey&lt;/a>, published on February 9th of 2024. All figures and tables mentioned throughout the episode can be found on the Into AI Safety podcast website.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -90,7 +90,7 @@ Take a trip with me through the paper &lt;a href="https://arxiv.org/abs/2402.061
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%201_hu3555832400179830763.webp" alt="image" width="1024" height="493" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Fig%201_hu3555832400179830763.webp" alt="image" width="1024" height="493" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -109,7 +109,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%202_hu8929624661198047080.webp" alt="image" width="747" height="1024" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Fig%202_hu8929624661198047080.webp" alt="image" width="747" height="1024" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -128,7 +128,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2024_hu17556133610234335377.webp" alt="image" width="1024" height="598" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Fig%2024_hu17556133610234335377.webp" alt="image" width="1024" height="598" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -147,7 +147,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2025_hu9829964013519034606.webp" alt="image" width="880" height="1024" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Fig%2025_hu9829964013519034606.webp" alt="image" width="880" height="1024" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -166,7 +166,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2036_hu4906402344755598889.webp" alt="image" width="1024" height="785" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Fig%2036_hu4906402344755598889.webp" alt="image" width="1024" height="785" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -185,7 +185,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2041_hu14136407989386307625.webp" alt="image" width="1024" height="923" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Fig%2041_hu14136407989386307625.webp" alt="image" width="1024" height="923" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -204,7 +204,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2042_hu16213303239155888590.webp" alt="image" width="1024" height="977" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Fig%2042_hu16213303239155888590.webp" alt="image" width="1024" height="977" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -223,7 +223,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%2043_hu3539301964575474658.webp" alt="image" width="1024" height="719" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Fig%2043_hu3539301964575474658.webp" alt="image" width="1024" height="719" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -242,7 +242,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Fig%208_hu844005871932934650.webp" alt="image" width="1024" height="413" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Fig%208_hu844005871932934650.webp" alt="image" width="1024" height="413" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -261,7 +261,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20i_hu6240025984118766728.webp" alt="image" width="1008" height="1024" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Table%20i_hu6240025984118766728.webp" alt="image" width="1008" height="1024" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -280,7 +280,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20ii_hu15732942550563525819.webp" alt="image" width="1011" height="1024" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Table%20ii_hu15732942550563525819.webp" alt="image" width="1011" height="1024" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -299,7 +299,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20ix_hu1319326210321459289.webp" alt="image" width="455" height="1024" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Table%20ix_hu1319326210321459289.webp" alt="image" width="455" height="1024" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -318,7 +318,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20vii_hu12460399451947034218.webp" alt="image" width="754" height="1024" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Table%20vii_hu12460399451947034218.webp" alt="image" width="754" height="1024" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -337,7 +337,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20viii_hu17923865212524741611.webp" alt="image" width="863" height="1024" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Table%20viii_hu17923865212524741611.webp" alt="image" width="863" height="1024" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -356,7 +356,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Table%20x_hu3400596050641579775.webp" alt="image" width="1024" height="641" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Table%20x_hu3400596050641579775.webp" alt="image" width="1024" height="641" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -375,7 +375,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/llms-a-survey/Tables%20iii%20and%20iv_hu11028613769514130346.webp" alt="image" width="1024" height="816" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/llms-a-survey/Tables%20iii%20and%20iv_hu11028613769514130346.webp" alt="image" width="1024" height="816" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -467,7 +467,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 &lt;li>&lt;a href="https://openai.com/blog/memory-and-new-controls-for-chatgpt" target="_blank" rel="noreferrer noopener">Memory and new controls for ChatGPT&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4515540/" target="_blank" rel="noreferrer noopener">Hallucinations and related concepts—their conceptual background&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!-- end of the list --></description></item><item><title>Reading a Research Paper</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e01/</link><pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e01/</guid><description>&lt;div style="text-align: justify">
+&lt;!-- end of the list --></description></item><item><title>Reading a Research Paper</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e01/</link><pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e01/</guid><description>&lt;div style="text-align: justify">
 Before I begin with the paper-distillation based minisodes, I figured we would go over best practices for reading research papers. I go through the anatomy of typical papers, and some generally applicable advice.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -501,7 +501,7 @@ Before I begin with the paper-distillation based minisodes, I figured we would g
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;!-- end of the list --></description></item><item><title>Portfolios</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e010/</link><pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e010/</guid><description>&lt;div style="text-align: justify">
+&lt;!-- end of the list --></description></item><item><title>Portfolios</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e010/</link><pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e010/</guid><description>&lt;div style="text-align: justify">
 I provide my thoughts and recommendations regarding personal professional portfolios.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -530,7 +530,7 @@ I provide my thoughts and recommendations regarding personal professional portfo
 &lt;li>&lt;a href="https://pages.github.com" target="_blank" rel="noreferrer noopener">GitHub Pages&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">My portfolio&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!-- end of the list --></description></item><item><title>Starting a Podcast</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e008/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e008/</guid><description>&lt;div style="text-align: justify">
+&lt;!-- end of the list --></description></item><item><title>Starting a Podcast</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e008/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e008/</guid><description>&lt;div style="text-align: justify">
 A summary and reflections on the path I have taken to get this podcast started, including some resources recommendations for others who want to do something similar.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -549,7 +549,7 @@ A summary and reflections on the path I have taken to get this podcast started, 
 &lt;li>&lt;a href="https://craig.chat" target="_blank" rel="noreferrer noopener">Craig&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://riverside.fm" target="_blank" rel="noreferrer noopener">Riverside&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!-- end of the list --></description></item><item><title>Staying Up-to-Date in AI</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e006/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e006/</guid><description>&lt;div style="text-align: justify">
+&lt;!-- end of the list --></description></item><item><title>Staying Up-to-Date in AI</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e006/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e006/</guid><description>&lt;div style="text-align: justify">
 In this minisode I give some tips for staying up-to-date in the everchanging landscape of AI. I would like to point out that I am constantly iterating on these strategies, tools, and sources, so it is likely that I will make an update episode in the future.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -590,7 +590,7 @@ In this minisode I give some tips for staying up-to-date in the everchanging lan
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;!-- end of the list --></description></item><item><title>Program Applications (Winter 2024)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e004/</link><pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e004/</guid><description>&lt;div style="text-align: justify">
+&lt;!-- end of the list --></description></item><item><title>Program Applications (Winter 2024)</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e004/</link><pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e004/</guid><description>&lt;div style="text-align: justify">
 We're back after a month-long hiatus with a podcast refactor and advice on the applications process for research/mentorship programs.
 &lt;!-- Check out the &lt;a href="https://into-ai-safety.github.io/about/" target="_blank" rel="noreferrer noopener">About&lt;/a> page on the &lt;a href="https://into-ai-safety.github.io" target="_blank" rel="noreferrer noopener">Into AI Safety&lt;/a> website for a summary of the logistics updates. -->
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
@@ -614,7 +614,7 @@ We're back after a month-long hiatus with a podcast refactor and advice on the a
 &lt;li>&lt;a href="https://www.lesswrong.com" target="_blank" rel="noreferrer noopener">LessWrong&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.alignmentforum.org" target="_blank" rel="noreferrer noopener">AI Alignment Forum&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!-- end of the list --></description></item><item><title>EAG Takeaways (Boston 2023)</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e003/</link><pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e003/</guid><description>&lt;div style="text-align: justify">
+&lt;!-- end of the list --></description></item><item><title>EAG Takeaways (Boston 2023)</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e003/</link><pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e003/</guid><description>&lt;div style="text-align: justify">
 This episode is a brief overview of the major takeaways I had from attending EAG Boston 2023, and an update on my plans for the podcast moving forward.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -635,13 +635,13 @@ This episode is a brief overview of the major takeaways I had from attending EAG
 &lt;li>&lt;a href="https://forum.effectivealtruism.org/posts/8R2NffQiCsn3F7hpv/how-to-generate-research-proposals" target="_blank" rel="noreferrer noopener">How to generate research proposals&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.effectivealtruism.org/articles/karolina-sarek-how-to-do-research-that-matters" target="_blank" rel="noreferrer noopener">Karolina Sarek: How to do research that matters&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2310.18233" target="_blank" rel="noreferrer noopener">Will releasing the weights of future large language models grant widespread access to pandemic agents?&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Introduction and Motivation</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e001/</link><pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e001/</guid><description>&lt;div style="text-align: justify">Welcome to the Into AI Safety podcast! In this episode I provide reasoning for why I am starting this podcast, what I am trying to accomplish with it, and a little bit of background on how I got here.
+&lt;/ul></description></item><item><title>Introduction and Motivation</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e001/</link><pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e001/</guid><description>&lt;div style="text-align: justify">Welcome to the Into AI Safety podcast! In this episode I provide reasoning for why I am starting this podcast, what I am trying to accomplish with it, and a little bit of background on how I got here.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
 &lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/2b9dbb68">&lt;/iframe>
 &lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title>"Why Existential Risk Work?" - Q&amp;A w/ Coleman Snell</title><link>https://jacob-haimes.github.io/kairos.fm/staging/onwhatmatters/q001/</link><pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/onwhatmatters/q001/</guid><description>&lt;div style="text-align: justify">
+&lt;/div></description></item><item><title>"Why Existential Risk Work?" - Q&amp;A w/ Coleman Snell</title><link>https://jacob-haimes.github.io/kairos.fm-staging/onwhatmatters/q001/</link><pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/onwhatmatters/q001/</guid><description>&lt;div style="text-align: justify">
 Big thanks to everyone who has submitted questions for future Q&amp;A #1! If you have a question you want answered for me or any other members of the 21st Talks project, you can follow me on Twitter at MajorKant and DM me directly.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">

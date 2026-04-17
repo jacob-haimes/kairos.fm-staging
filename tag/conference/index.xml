@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conference | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/conference/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/conference/index.xml" rel="self" type="application/rss+xml"/><description>Conference</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Conference</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/conference/</link></image><item><title>NeurIPS 2024 Wrapped 🌯</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e010/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e010/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conference | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/conference/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/tag/conference/index.xml" rel="self" type="application/rss+xml"/><description>Conference</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Conference</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/conference/</link></image><item><title>NeurIPS 2024 Wrapped 🌯</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e010/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e010/</guid><description>&lt;div style="text-align: justify">
 What happens when you bring over 15,000 machine learning nerds to one city? If your guess didn't include racism, sabotage and scandal, belated epiphanies, a spicy SoLaR panel, and many fantastic research papers, you wouldn't have captured my experience. In this episode we discuss the drama and takeaways from NeurIPS 2024.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -20,7 +20,7 @@ What happens when you bring over 15,000 machine learning nerds to one city? If y
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/APEBench_hu11004803137852258812.webp" alt="image" width="1024" height="512" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/APEBench_hu11004803137852258812.webp" alt="image" width="1024" height="512" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -39,7 +39,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Assemblage_hu15416049669628317638.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Assemblage_hu15416049669628317638.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -58,7 +58,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Benchmark%20Data%20Repositories_hu13040438821775446270.webp" alt="image" width="1024" height="682" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Benchmark%20Data%20Repositories_hu13040438821775446270.webp" alt="image" width="1024" height="682" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -77,7 +77,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Datacuration%20at%20NeurIPS_hu5794978076106878445.webp" alt="image" width="1024" height="512" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Datacuration%20at%20NeurIPS_hu5794978076106878445.webp" alt="image" width="1024" height="512" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -96,7 +96,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/DeTikZify_hu3773985651163127292.webp" alt="image" width="1024" height="724" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/DeTikZify_hu3773985651163127292.webp" alt="image" width="1024" height="724" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -115,7 +115,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Mitigating%20Downstream%20Risks_hu2578012764299498854.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Mitigating%20Downstream%20Risks_hu2578012764299498854.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -134,7 +134,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/NeurIPS%20Dataset%20Management_hu335207271362309036.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/NeurIPS%20Dataset%20Management_hu335207271362309036.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -153,7 +153,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Paloma_hu9994376834060040483.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Paloma_hu9994376834060040483.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -172,7 +172,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/RedPajama_hu17183748951377220475.webp" alt="image" width="1024" height="638" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/RedPajama_hu17183748951377220475.webp" alt="image" width="1024" height="638" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -191,7 +191,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Rethinking%20OOD%20Detection_hu7661697797387580891.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Rethinking%20OOD%20Detection_hu7661697797387580891.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -210,7 +210,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/WhodunitBench_hu6100533225606978712.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/WhodunitBench_hu6100533225606978712.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -229,7 +229,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/WikiDBs_hu2819539304326302383.webp" alt="image" width="1024" height="682" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/WikiDBs_hu2819539304326302383.webp" alt="image" width="1024" height="682" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -248,7 +248,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/WorkArena&amp;#43;&amp;#43;_hu3947289986755855193.webp" alt="image" width="1024" height="682" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/WorkArena&amp;#43;&amp;#43;_hu3947289986755855193.webp" alt="image" width="1024" height="682" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -267,7 +267,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Metric%20Learning%20Fig%202_hu3493086080903459388.webp" alt="image" width="1024" height="598" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Metric%20Learning%20Fig%202_hu3493086080903459388.webp" alt="image" width="1024" height="598" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>

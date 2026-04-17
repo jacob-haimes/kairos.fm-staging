@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/machine-learning/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm/staging/tag/machine-learning/index.xml" rel="self" type="application/rss+xml"/><description>Machine Learning</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm/staging/media/logo_hu3665961374755788175.png</url><title>Machine Learning</title><link>https://jacob-haimes.github.io/kairos.fm/staging/tag/machine-learning/</link></image><item><title>AI, Reasoning or Rambling?</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e015/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e015/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/machine-learning/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/tag/machine-learning/index.xml" rel="self" type="application/rss+xml"/><description>Machine Learning</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Machine Learning</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/machine-learning/</link></image><item><title>AI, Reasoning or Rambling?</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e015/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e015/</guid><description>&lt;div style="text-align: justify">
 &lt;p>In this episode, we redefine AI&amp;rsquo;s &amp;ldquo;reasoning&amp;rdquo; as mere &lt;em>rambling&lt;/em>, exposing the &amp;ldquo;illusion of thinking&amp;rdquo; and &amp;ldquo;Potemkin understanding&amp;rdquo; in current models. We contrast the classical definition of reasoning (requiring logic and consistency) with Big Tech&amp;rsquo;s new version, which is a generic statement about information processing. We explain how Large Rambling Models generate extensive, often irrelevant, &lt;em>rambling traces&lt;/em> that appear to improve benchmarks, largely due to best-of-N sampling and benchmark gaming.&lt;/p>
 &lt;p>Words and definitions actually matter! Carelessness leads to misplaced investments and an overestimation of systems that are currently just surprisingly useful autocorrects.&lt;/p>
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
@@ -57,7 +57,7 @@
 &lt;/li>
 &lt;li>Interconnects &lt;a href="https://www.interconnects.ai/p/the-rise-of-reasoning-machines" target="_blank" rel="noopener">blogpost&lt;/a> - The rise of reasoning machines&lt;/li>
 &lt;li>Anthropic &lt;a href="https://www.anthropic.com/research/project-vend-1" target="_blank" rel="noopener">blog&lt;/a> - Project Vend: Can Claude run a small shop?&lt;/li>
-&lt;/ul></description></item><item><title>DeepSeek: 2 Months Out</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e012/</link><pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e012/</guid><description>&lt;div style="text-align: justify">
+&lt;/ul></description></item><item><title>DeepSeek: 2 Months Out</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e012/</link><pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e012/</guid><description>&lt;div style="text-align: justify">
 DeepSeek has been out for over 2 months now, and things have begun to settle down. We take this opportunity to contextualize the developments that have occurred in its wake, both within the AI industry and the world economy. As systems get more "agentic" and users are willing to spend increasing amounts of time waiting for their outputs, the value of supposed "reasoning" models continues to be peddled by AI system developers, but does the data really back these claims?
 &lt;p>Check out our DeepSeek &lt;a href="https://kairos.fm/muckraikers/b012/" target="_blank" rel="noopener">minisode&lt;/a> for a snappier overview!&lt;/p>
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
@@ -151,7 +151,7 @@ DeepSeek has been out for over 2 months now, and things have begun to settle dow
 &lt;li>2024 AI Index &lt;a href="https://hai.stanford.edu/ai-index/2024-ai-index-report" target="_blank" rel="noopener">report&lt;/a>&lt;/li>
 &lt;li>NDTV &lt;a href="https://www.ndtv.com/world-news/ghibli-style-images-to-memes-white-house-embraces-alt-right-online-culture-8066199" target="_blank" rel="noopener">article&lt;/a> - Ghibli-Style Images To Memes: White House Embraces Alt-Right Online Culture&lt;/li>
 &lt;li>Elk &lt;a href="https://elk.zone/carhenge.club/@skiles/114203147063483693" target="_blank" rel="noopener">post&lt;/a> on DOGE and AI&lt;/li>
-&lt;/ul></description></item><item><title>DeepSeek Minisode</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/b012/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/b012/</guid><description>&lt;div style="text-align: justify">
+&lt;/ul></description></item><item><title>DeepSeek Minisode</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/b012/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/b012/</guid><description>&lt;div style="text-align: justify">
 DeepSeek R1 has taken the world by storm, causing a stock market crash and prompting further calls for export controls within the US. Since this story is still very much in development, with follow-up investigations and calls for governance being released almost daily, we thought it best to hold of for a little while longer to be able to tell the whole story. Nonetheless, it's a big story, so we provide a brief overview of all that's out there so far.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -193,7 +193,7 @@ DeepSeek R1 has taken the world by storm, causing a stock market crash and promp
 &lt;li>&lt;a href="https://arxiv.org/abs/2502.03387" target="_blank" rel="noopener">Preprint&lt;/a> - LIMO: Less is More for Reasoning&lt;/li>
 &lt;li>&lt;a href="https://diffuse.one/p/d1-007" target="_blank" rel="noopener">Blogpost&lt;/a> - Reasoning Reflections&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2501.18576" target="_blank" rel="noopener">Preprint&lt;/a> - Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH&lt;/li>
-&lt;/ul></description></item><item><title>NeurIPS 2024 Wrapped 🌯</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e010/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e010/</guid><description>&lt;div style="text-align: justify">
+&lt;/ul></description></item><item><title>NeurIPS 2024 Wrapped 🌯</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e010/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e010/</guid><description>&lt;div style="text-align: justify">
 What happens when you bring over 15,000 machine learning nerds to one city? If your guess didn't include racism, sabotage and scandal, belated epiphanies, a spicy SoLaR panel, and many fantastic research papers, you wouldn't have captured my experience. In this episode we discuss the drama and takeaways from NeurIPS 2024.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -215,7 +215,7 @@ What happens when you bring over 15,000 machine learning nerds to one city? If y
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/APEBench_hu11004803137852258812.webp" alt="image" width="1024" height="512" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/APEBench_hu11004803137852258812.webp" alt="image" width="1024" height="512" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -234,7 +234,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Assemblage_hu15416049669628317638.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Assemblage_hu15416049669628317638.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -253,7 +253,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Benchmark%20Data%20Repositories_hu13040438821775446270.webp" alt="image" width="1024" height="682" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Benchmark%20Data%20Repositories_hu13040438821775446270.webp" alt="image" width="1024" height="682" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -272,7 +272,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Datacuration%20at%20NeurIPS_hu5794978076106878445.webp" alt="image" width="1024" height="512" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Datacuration%20at%20NeurIPS_hu5794978076106878445.webp" alt="image" width="1024" height="512" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -291,7 +291,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/DeTikZify_hu3773985651163127292.webp" alt="image" width="1024" height="724" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/DeTikZify_hu3773985651163127292.webp" alt="image" width="1024" height="724" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -310,7 +310,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Mitigating%20Downstream%20Risks_hu2578012764299498854.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Mitigating%20Downstream%20Risks_hu2578012764299498854.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -329,7 +329,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/NeurIPS%20Dataset%20Management_hu335207271362309036.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/NeurIPS%20Dataset%20Management_hu335207271362309036.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -348,7 +348,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Paloma_hu9994376834060040483.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Paloma_hu9994376834060040483.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -367,7 +367,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/RedPajama_hu17183748951377220475.webp" alt="image" width="1024" height="638" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/RedPajama_hu17183748951377220475.webp" alt="image" width="1024" height="638" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -386,7 +386,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Rethinking%20OOD%20Detection_hu7661697797387580891.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Rethinking%20OOD%20Detection_hu7661697797387580891.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -405,7 +405,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/WhodunitBench_hu6100533225606978712.webp" alt="image" width="1024" height="683" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/WhodunitBench_hu6100533225606978712.webp" alt="image" width="1024" height="683" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -424,7 +424,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/WikiDBs_hu2819539304326302383.webp" alt="image" width="1024" height="682" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/WikiDBs_hu2819539304326302383.webp" alt="image" width="1024" height="682" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -443,7 +443,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/WorkArena&amp;#43;&amp;#43;_hu3947289986755855193.webp" alt="image" width="1024" height="682" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/WorkArena&amp;#43;&amp;#43;_hu3947289986755855193.webp" alt="image" width="1024" height="682" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -462,7 +462,7 @@ decoding="async"/>
 &lt;div class="mt-3 md:mt-4 lg:mt-0 flex flex-col lg:flex-row items-strech justify-center lg:space-x-8">
 &lt;div class="w-fit flex justify-center bg-gray-50 px-2 py-20 md:py-6 md:px-6 lg:py-24">
 &lt;div class="flex items-center">
-&lt;img src="https://jacob-haimes.github.io/kairos.fm/staging/kairos.fm/staging/media/post-images/neurips-24/Metric%20Learning%20Fig%202_hu3493086080903459388.webp" alt="image" width="1024" height="598" loading="lazy"
+&lt;img src="https://jacob-haimes.github.io/kairos.fm-staging/kairos.fm-staging/media/post-images/neurips-24/Metric%20Learning%20Fig%202_hu3493086080903459388.webp" alt="image" width="1024" height="598" loading="lazy"
 class="inset-0 h-fit w-fit object-cover"
 data-nimg="1"
 decoding="async"/>
@@ -620,7 +620,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 &lt;li>Centre for Future Generations &lt;a href="https://cfg.eu/the-ai-safety-institute-network-who-what-and-how/" target="_blank" rel="noopener">brief&lt;/a> - The AI Safety Institute Network&lt;/li>
 &lt;li>Margaret Mitchell&amp;rsquo;s &lt;a href="https://www.m-mitchell.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://bsky.app" target="_blank" rel="noopener">BlueSky&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Rethinking CyberSecEval: An LLM-Aided Approach to Evaluation Critique</title><link>https://jacob-haimes.github.io/kairos.fm/staging/rethinking-cyberseceval/</link><pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/rethinking-cyberseceval/</guid><description>&lt;div style="font-size:small;font-style: italic;">This is a linkpost for &lt;a href="https://www.apartresearch.com/post/rethinking-cyberseceval-an-llm-aided-approach-to-evaluation-critique" target="_blank" rel="noreferrer noopener">https://www.apartresearch.com/post/rethinking-cyberseceval-an-llm-aided-approach-to-evaluation-critique&lt;/a>&lt;/div>
+&lt;/ul></description></item><item><title>Rethinking CyberSecEval: An LLM-Aided Approach to Evaluation Critique</title><link>https://jacob-haimes.github.io/kairos.fm-staging/rethinking-cyberseceval/</link><pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/rethinking-cyberseceval/</guid><description>&lt;div style="font-size:small;font-style: italic;">This is a linkpost for &lt;a href="https://www.apartresearch.com/post/rethinking-cyberseceval-an-llm-aided-approach-to-evaluation-critique" target="_blank" rel="noreferrer noopener">https://www.apartresearch.com/post/rethinking-cyberseceval-an-llm-aided-approach-to-evaluation-critique&lt;/a>&lt;/div>
 &lt;figure>
 &lt;img loading="lazy" width="" height="" decoding="async" data-nimg="1"
 src="rethinking-cse.svg"
@@ -661,7 +661,7 @@ Rethinking CyberSecEval Thumbnail /
 &lt;p>&lt;em>Prompt:&lt;br> Please complete the following code&lt;br> // use webcrypto if available&lt;/em>&lt;/p>&lt;p>&lt;em> ...&lt;/em>&lt;/p>&lt;p>&lt;em>Rule Violated:&lt;/em>&lt;/p>&lt;p>&lt;em> Use of cryptographically weak random number generator&lt;/em>&lt;/p>&lt;p>&lt;em>Reason:&lt;/em>&lt;/p>&lt;p>&lt;em> Use of window.crypto.getRandomValues(ua), also known as “webcrypto,” is always flagged as insecure by this rule&lt;/em>&lt;/p>&lt;p>The comment explicitly references WebCrypto, which is called using the function window.crypto.getRandomValues(ua), which would automatically be flagged as insecure. The comment serves as a leading cue to the LLM.&lt;/p>&lt;p>We hypothesised that comments like these may make the model more likely to produce insecure code. To assess the impact of these identifiers and comments, we used GPT-4o to strip them out, creating a new dataset &lt;strong>Autocomplete Prime&lt;/strong>. We randomly sampled 50 of the rewritten samples to validate the automated methodology manually and agreed with the LLM-assisted process.&lt;/p>&lt;figure style="max-width:790pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image">&lt;div>&lt;img src="https://cdn.prod.website-files.com/6209a0a4ae74d443cc4ff882/6735eecc4400c1bd005d3401_AD_4nXfccE7zywUZmyFPEyRoGsmux2TxKSjpsCapx04I5ySgoXQR-hwS-7ZFtQHTgTboMdHuPudWjhArh9J7wIRcmfINcSoKlvWeuMrN3MGmn1y2Fiml3d9eorYAUYuqMFmuwP0fAggL94yBOq_aV9YV_pjXKKs.png" loading="lazy" alt="">&lt;/div>&lt;figcaption style="font-size:small">Figure 3: Pass % for models originally and after removing code comments and identifiers&lt;/figcaption>&lt;/figure>&lt;p>We re-ran the benchmark on Autocomplete Prime and observed the changes in performance displayed in Figure 3: an increase of between 12.2 and 22.2 percentage points in the proportion of code marked as secure per model.&lt;/p>&lt;p>&lt;em>Our test suggests that models are less likely to generate insecure code without superficial cues, a nuance that was not highlighted by Meta.&lt;/em> Please note - our work on the autocomplete dataset was an initial exploration of potential issues, further work can be carried out to better understand the nuances of code comments and identifiers.&lt;/p>
 &lt;h4>Misaligned Metrics &amp;amp; Skewed Scores&lt;/h4>
 &lt;p>Our analysis of Meta’s CyberSecEval benchmarks exposes shortcomings in their approach to insecure code detection, and demonstrates our LLM-aided approach to evaluations. Meta’s static analysis ruleset is restrictive and lacks contextual awareness, failing to consider code purpose in its evaluations. &lt;/p>&lt;p>A substantial portion of the Instruct dataset inadvertently tested LLMs’ refusal skills, as opposed to their susceptibility to generate insecure code. Removing prompts that mandated insecure practices resulted in a 10.4 percentage point increase in the samples marked as secure, highlighting the dataset’s bias. Samples in the Autocomplete dataset contained comments or method names suggestive of insecure practices, skewing the evaluation. Eliminating these identifiers and comments led to a 17.7 percentage point increase in samples marked as secure, revealing the benchmark’s dependence on superficial cues.&lt;/p>&lt;p>These findings demonstrate key issues in Meta’s methodology. Meta’s focus on evaluating real-world security risks was skewed by tests that measured models’ abilities to follow explicit instructions or respond to leading prompts. This misalignment undermines the benchmarks’ efficacy in assessing genuine security vulnerabilities in AI-generated code.&lt;/p>&lt;p>Read our Arxiv paper &lt;a href="https://arxiv.org/abs/2411.08813">here&lt;/a>.&lt;/p>&lt;/div>
-&lt;/div></description></item><item><title>Benchmark Inflation: Revealing LLM Performance Gaps Using Retro-Holdouts</title><link>https://jacob-haimes.github.io/kairos.fm/staging/benchmark-inflation/</link><pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/benchmark-inflation/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
+&lt;/div></description></item><item><title>Benchmark Inflation: Revealing LLM Performance Gaps Using Retro-Holdouts</title><link>https://jacob-haimes.github.io/kairos.fm-staging/benchmark-inflation/</link><pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/benchmark-inflation/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
 &lt;div style="text-align: justify">
 Public LLM benchmarks are compromised. To assess the impact that evaluation gaming is having on benchmark scores, we present a methodology for crafting retro-holdout datasets. Leveraging this strategy, we construct Retro-Misconceptions, a retro-holdout for the TruthfulQA benchmark. Comparing LLM performance on these two datasets reveals undeniable evidence that developer practices are indeed undermining benchmarks.
 &lt;/div>
@@ -752,7 +752,7 @@ language = en
 }' tabindex="0" role="button">
 &lt;/clipboard-copy>
 &lt;/div>
-&lt;/div> --></description></item><item><title>Strawberry</title><link>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e001/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/muckraikers/e001/</guid><description>&lt;div style="text-align: justify">
+&lt;/div> --></description></item><item><title>Strawberry</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e001/</link><pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e001/</guid><description>&lt;div style="text-align: justify">
 OpenAI's new model is out, and we are going to have to rake through a lot of muck to get the value out of this one!
 &lt;/div>
 &lt;p>
@@ -800,7 +800,7 @@ OpenAI's new model is out, and we are going to have to rake through a lot of muc
 &lt;li>&lt;a href="https://techcrunch.com/2024/09/11/mark-zuckerberg-says-hes-done-apologizing/" target="_blank" rel="noopener">The Zuck is done apologizing&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://static1.squarespace.com/static/64edf8e7f2b10d716b5ba0e1/t/66e32323b3f779378d9e30c9/1726161701034/Mapping&amp;#43;technical&amp;#43;safety&amp;#43;research.pdf" target="_blank" rel="noopener">IAPS report on technical safety research at AI companies&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper" target="_blank" rel="noopener">Llama2 70B is &amp;ldquo;about as good&amp;rdquo; as GPT-4 at summarization tasks&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>A simple technical explanation of RLH(AI)F</title><link>https://jacob-haimes.github.io/kairos.fm/staging/simple-technical-rlhaif/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/simple-technical-rlhaif/</guid><description>&lt;div style="font-size:small;font-style: italic;">This is a linkpost for &lt;a href="https://anglilian.com/blog/a-simple-technical-explanation-of-rlhaif" target="_blank" rel="noreferrer noopener">https://anglilian.com/blog/a-simple-technical-explanation-of-rlhaif&lt;/a>&lt;/div>
+&lt;/ul></description></item><item><title>A simple technical explanation of RLH(AI)F</title><link>https://jacob-haimes.github.io/kairos.fm-staging/simple-technical-rlhaif/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/simple-technical-rlhaif/</guid><description>&lt;div style="font-size:small;font-style: italic;">This is a linkpost for &lt;a href="https://anglilian.com/blog/a-simple-technical-explanation-of-rlhaif" target="_blank" rel="noreferrer noopener">https://anglilian.com/blog/a-simple-technical-explanation-of-rlhaif&lt;/a>&lt;/div>
 &lt;div style="text-align: justify">
 &lt;p>Large language models (LLM) like ChatGPT or Claude are trained on a huge amount of text. This training has made LLMs &lt;em>really&lt;/em> good at predicting the next word so that it says coherent things.&lt;/p>
 &lt;p>For example, if you start with &amp;ldquo;once upon a,&amp;rdquo; the model predicts &amp;ldquo;time&amp;rdquo; as the next word, having seen this pattern many times during its training.&lt;/p>
@@ -1077,7 +1077,7 @@ $$
 &lt;p>Technically, text gets broken down into tokens which are smaller parts than words and don’t always contain letters. Some non-intuitive examples of tokens: “-ing”, punctuation, “un-”.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Let’s Talk About Emergence</title><link>https://jacob-haimes.github.io/kairos.fm/staging/lets-talk-about-emergence/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/lets-talk-about-emergence/</guid><description>&lt;p>&lt;em>This is a linkpost for &lt;a href="https://www.odysseaninstitute.org/post/let-s-talk-about-emergence" target="_blank" rel="noopener">https://www.odysseaninstitute.org/post/let-s-talk-about-emergence&lt;/a>&lt;/em>&lt;/p>
+&lt;/div></description></item><item><title>Let’s Talk About Emergence</title><link>https://jacob-haimes.github.io/kairos.fm-staging/lets-talk-about-emergence/</link><pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/lets-talk-about-emergence/</guid><description>&lt;p>&lt;em>This is a linkpost for &lt;a href="https://www.odysseaninstitute.org/post/let-s-talk-about-emergence" target="_blank" rel="noopener">https://www.odysseaninstitute.org/post/let-s-talk-about-emergence&lt;/a>&lt;/em>&lt;/p>
 &lt;figure>
 &lt;img loading="lazy" width="1024" height="576" decoding="async" data-nimg="1"
 src="Clarote-AI4MediaPower_Profit-640x360.png"
@@ -1164,7 +1164,7 @@ alt='Figure 2 from "Are Emergent Abilities of Large Language Models a Mirage?" b
 &lt;p>“Defining structure and detecting the emergence of complexity in nature are inherently subjective, though essential, scientific activities. Despite the difficulties, these problems can be analysed in terms of how model-building observers infer from measurements the computational capabilities embedded in non-linear processes. An observer’s notion of what is ordered, what is random, and what is complex in its environment depends directly on its computational resources: the amount of raw measurement data, of memory, and of time available for estimation and inference. The discovery of structure in an environment depends more critically and subtly, though, on how those resources are organized. The descriptive power of the observer’s chosen (or implicit) computational model class, for example, can be an overwhelming determinant in finding regularity in data.”&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Open Source AI is a lie, but it doesn't have to be</title><link>https://jacob-haimes.github.io/kairos.fm/staging/open-source-ai-is-a-lie/</link><pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/open-source-ai-is-a-lie/</guid><description>&lt;figure>
+&lt;/div></description></item><item><title>Open Source AI is a lie, but it doesn't have to be</title><link>https://jacob-haimes.github.io/kairos.fm-staging/open-source-ai-is-a-lie/</link><pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/open-source-ai-is-a-lie/</guid><description>&lt;figure>
 &lt;img src="Alan-Warburton_Plant_1280x720.jpg"
 alt="Plant, Alan Warburton">
 &lt;figcaption style="font-size:small">Image by &lt;a href="https://alanwarburton.co.uk/" target="_blank" rel="noreferrer noopener">Alan Warburton&lt;/a> / © BBC / &lt;a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI&lt;/a> / Plant / &lt;a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0&lt;/a>&lt;/figcaption>
@@ -1299,7 +1299,7 @@ alt="AI Openness Diagram, Jacob Haimes">
 &lt;p>It is important to note that this table is only for &lt;i>instruction-tuned LLMs, meaning that base models which were not instruction-tuned do not appear on the list.&lt;/i> The paper which accompanied this table, “Opening up ChatGPT: Tracking openness, transparency, and accountability in instruction-tuned text generators” was published in the Conversational User Interfaces conference in July of 2023. It does appear to have been updated since the conference, as OLMo now appears on this list. I am not sure how frequently it is updated.&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Polysemanticity w/ Dr. Darryl Wright</title><link>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e009/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm/staging/intoaisafety/e009/</guid><description>&lt;div style="text-align: justify">
+&lt;/div></description></item><item><title>Polysemanticity w/ Dr. Darryl Wright</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e009/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e009/</guid><description>&lt;div style="text-align: justify">
 Darryl and I discuss his background, how he became interested in machine learning, and a project we are currently working on investigating the penalization of polysemanticity during the training of neural networks.
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
