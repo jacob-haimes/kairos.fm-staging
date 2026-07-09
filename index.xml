@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/index.xml" rel="self" type="application/rss+xml"/><description>Home</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Home</title><link>https://jacob-haimes.github.io/kairos.fm-staging/</link></image><item><title>Reclaiming UBI in the AI Age w/ Joe Williams</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e031/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e031/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/index.xml" rel="self" type="application/rss+xml"/><description>Home</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Home</title><link>https://jacob-haimes.github.io/kairos.fm-staging/</link></image><item><title>Pretraining Safety w/ Ethan Roland</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e032/</link><pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e032/</guid><description>&lt;div style="text-align: justify">
+What if the safest AI models weren't built by adding guardrails after training, but by shaping what gets learned in the first place? Ethan Roland, senior alignment researcher at AE Studio and first author on an ICML 2026 spotlight paper, joins Jacob to talk about gradient routing, a technique that routes dangerous capabilities into isolated parts of a model's architecture where they can be locked or removed entirely. They get into the absorption effect, KYC-style access control frameworks, and what it would actually take for frontier labs to adopt this kind of work before it's needed rather than after.
+&lt;p>Check out the &lt;a href="https://youtu.be/rsjVgoHFZM4" target="_blank" rel="noopener">video version&lt;/a> of this podcast on the Kairos.fm YouTube channel!&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/8b696221">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.05.14; ASIDES RECORDED 2026.06.10; &lt;a href="https://share.transistor.fm/s/8b696221/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
+00:00:00 ❙ Intro&lt;br>
+00:06:39 ❙ Inside AE Studio&lt;br>
+00:15:26 ❙ China &amp; the Alignment vs. Controllability Framing&lt;br>
+00:18:23 ❙ Data Filtering &amp; Gradient Routing (Aside)&lt;br>
+00:30:39 ❙ Mixture of Experts Explained (Aside)&lt;br>
+00:36:25 ❙ Why Pre-Training Interventions Are Rare&lt;br>
+00:42:43 ❙ Ethan's Theory of Change&lt;br>
+00:56:17 ❙ Access Control Governance and KYC (Aside)&lt;br>
+01:04:47 ❙ The Researcher's Role in Policy Advocacy&lt;br>
+01:11:38 ❙ Speed Round&lt;br>
+01:27:55 ❙ Outro
+&lt;/small>&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Ethan&amp;rsquo;s &lt;a href="http://ethan-roland.com/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Paper &lt;a href="https://modularpretraining.com/" target="_blank" rel="noopener">landing page&lt;/a>&lt;/li>
+&lt;li>Anthropic&amp;rsquo;s &lt;a href="https://www.anthropic.com/research/off-switch-dual-use" target="_blank" rel="noopener">press release&lt;/a> and &lt;a href="https://alignment.anthropic.com/2026/modular-pretraining/" target="_blank" rel="noopener">blogpost&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="relevant-prior-works">Relevant Prior Works&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2410.04332" target="_blank" rel="noopener">Preprint&lt;/a> - Gradient Routing: Masking Gradients to Localize Computation in Neural Networks&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2512.05648" target="_blank" rel="noopener">Preprint&lt;/a> - Beyond Data Filtering: Knowledge Localization for Capability Removal in LLMs&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/2508.06601" target="_blank" rel="noopener">paper&lt;/a> and &lt;a href="https://deepignorance.ai" target="_blank" rel="noopener">webpage&lt;/a> - Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/1803.03635" target="_blank" rel="noopener">paper&lt;/a> - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/2412.01951v2" target="_blank" rel="noopener">paper&lt;/a> - Self-Improvement in Language Models:
+The Sharpening Mechanism&lt;/li>
+&lt;/ul>
+&lt;h3 id="cbrne">CBRN(e)&lt;/h3>
+&lt;ul>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/CBRN_defense" target="_blank" rel="noopener">article&lt;/a> - CBRN defense&lt;/li>
+&lt;li>NTI &lt;a href="https://www.nti.org/news/new-nti-tutorials-edcuate-biological-weapons-and-nuclear-testing/" target="_blank" rel="noopener">tutorials&lt;/a> on bioweapons and nuclear testing&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>Exploring Language Models &lt;a href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts" target="_blank" rel="noopener">substack article&lt;/a> - A Visual Guide to Mixture of Experts (MoE)&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/1701.06538" target="_blank" rel="noopener">paper&lt;/a> - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer&lt;/li>
+&lt;li>Swift &lt;a href="https://www.swift.com/risk-and-compliance/know-your-customer-kyc/kyc-process" target="_blank" rel="noopener">blogpost&lt;/a> - The KYC process explained&lt;/li>
+&lt;li>FATF &lt;a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html" target="_blank" rel="noopener">recommendations&lt;/a> on KYC&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Reclaiming UBI in the AI Age w/ Joe Williams</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e031/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e031/</guid><description>&lt;div style="text-align: justify">
 &lt;p>Today&amp;rsquo;s episode does double duty as an interview and an announcement. Joe Williams, host of the new Kairos FM show &amp;ldquo;Reclaiming UBI: Work and Values in the Age of AI,&amp;rdquo; joins Jacob to talk about his background as a freelance translator and how AI quietly dismantled his livelihood in 2025. From there the conversation expands into whether this moment is really different from past waves of automation, who exactly makes up the tech billionaire class, and why you should probably raise an eyebrow when someone like Elon Musk says he supports UBI. Go check out &lt;a href="https://kairos.fm/reclaimingubi/" target="_blank" rel="noopener">Reclaiming UBI&lt;/a>!&lt;/p>
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
@@ -9,19 +60,21 @@
 &lt;h2 id="chapters">Chapters&lt;/h2>
 &lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
-00:00:00 ❙ Intro&lt;br>
-00:04:33 ❙ Joe's Background&lt;br>
-00:19:13 ❙ What is UBI &amp; Why Does It Matter Now?&lt;br>
-00:26:57 ❙ ASIDE: The Corporation Who Cried " My Technology Will End Work"&lt;br>
-00:31:57 ❙ Wealth Concetration &amp; the Digital Economy&lt;br>
-00:38:38 ❙ The AI Gentry&lt;br>
-00:47:45 ❙ ASIDE: Sam Altman + OpenResearch + Worldcoin&lt;br>
-00:53:10 ❙ Powerful UBI Supporters Should Raise Red Flags&lt;br>
-01:02:28 ❙ How to Read AI Gentry Discourse Critically&lt;br>
-01:09:32 ❙ Who Is "Reclaiming UBI" For?&lt;br>
-01:17:49 ❙ Outro
+00:05:31 ❙ Joe's Background&lt;br>
+00:19:41 ❙ What is UBI &amp; Why Does It Matter Now?&lt;br>
+00:27:25 ❙ ASIDE: The Corporation Who Cried " My Technology Will End Work"&lt;br>
+00:32:25 ❙ Wealth Concetration &amp; the Digital Economy&lt;br>
+00:39:06 ❙ The AI Gentry&lt;br>
+00:48:13 ❙ ASIDE: Sam Altman + OpenResearch + Worldcoin&lt;br>
+00:53:38 ❙ Powerful UBI Supporters Should Raise Red Flags&lt;br>
+01:02:56 ❙ How to Read AI Gentry Discourse Critically&lt;br>
+01:10:00 ❙ Who Is "Reclaiming UBI" For?&lt;br>
+01:18:17 ❙ Outro
 &lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>AI and Ethics &lt;a href="https://link.springer.com/article/10.1007/s43681-026-01141-z" target="_blank" rel="noopener">article&lt;/a> - Tracing the techno-supremacy doctrine: a critical discourse analysis of the AI executive elite&lt;/li>
+&lt;/ul>
 &lt;h3 id="historical-precedents">Historical Precedents&lt;/h3>
 &lt;ul>
 &lt;li>Josh Steimle &lt;a href="https://joshsteimle.com/entrepreneur/ai-destroy-jobs-wrong-predictions.html" target="_blank" rel="noopener">blog post&lt;/a> - Will AI Destroy Jobs? 500 Years of Predictions Say No&lt;/li>
@@ -59,6 +112,10 @@
 &lt;li>CryptoNews &lt;a href="https://cryptonews.net/news/altcoins/29538931/" target="_blank" rel="noopener">article&lt;/a> - Yet Another Controversy Overshadows Worldcoin — What Is It Now?&lt;/li>
 &lt;li>BigGo Finance &lt;a href="https://finance.biggo.com/news/4ZriIZ0BOIb5XxavGH9-" target="_blank" rel="noopener">article&lt;/a> - AI Tokens as the New Currency? Huang and Altman Outline Vision for &amp;ldquo;Computing Resource Basic Income&amp;rdquo;&lt;/li>
 &lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/World_%28blockchain%29" target="_blank" rel="noopener">page&lt;/a> - World (blockchain)&lt;/li>
+&lt;/ul>
+&lt;h3 id="miscellaneous">Miscellaneous&lt;/h3>
+&lt;ul>
+&lt;li>Translators Without Borders &lt;a href="https://translatorswithoutborders.org" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;!-- end of the list -->
 &lt;/div></description></item><item><title>UBI and the Story of Work</title><link>https://jacob-haimes.github.io/kairos.fm-staging/reclaimingubi/e001/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/reclaimingubi/e001/</guid><description>&lt;div style="text-align: justify">

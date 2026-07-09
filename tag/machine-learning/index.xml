@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/machine-learning/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/tag/machine-learning/index.xml" rel="self" type="application/rss+xml"/><description>Machine Learning</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Machine Learning</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/machine-learning/</link></image><item><title>AI, Reasoning or Rambling?</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e015/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e015/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/machine-learning/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/tag/machine-learning/index.xml" rel="self" type="application/rss+xml"/><description>Machine Learning</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Machine Learning</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/machine-learning/</link></image><item><title>Pretraining Safety w/ Ethan Roland</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e032/</link><pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e032/</guid><description>&lt;div style="text-align: justify">
+What if the safest AI models weren't built by adding guardrails after training, but by shaping what gets learned in the first place? Ethan Roland, senior alignment researcher at AE Studio and first author on an ICML 2026 spotlight paper, joins Jacob to talk about gradient routing, a technique that routes dangerous capabilities into isolated parts of a model's architecture where they can be locked or removed entirely. They get into the absorption effect, KYC-style access control frameworks, and what it would actually take for frontier labs to adopt this kind of work before it's needed rather than after.
+&lt;p>Check out the &lt;a href="https://youtu.be/rsjVgoHFZM4" target="_blank" rel="noopener">video version&lt;/a> of this podcast on the Kairos.fm YouTube channel!&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/8b696221">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.05.14; ASIDES RECORDED 2026.06.10; &lt;a href="https://share.transistor.fm/s/8b696221/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
+00:00:00 ❙ Intro&lt;br>
+00:06:39 ❙ Inside AE Studio&lt;br>
+00:15:26 ❙ China &amp; the Alignment vs. Controllability Framing&lt;br>
+00:18:23 ❙ Data Filtering &amp; Gradient Routing (Aside)&lt;br>
+00:30:39 ❙ Mixture of Experts Explained (Aside)&lt;br>
+00:36:25 ❙ Why Pre-Training Interventions Are Rare&lt;br>
+00:42:43 ❙ Ethan's Theory of Change&lt;br>
+00:56:17 ❙ Access Control Governance and KYC (Aside)&lt;br>
+01:04:47 ❙ The Researcher's Role in Policy Advocacy&lt;br>
+01:11:38 ❙ Speed Round&lt;br>
+01:27:55 ❙ Outro
+&lt;/small>&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Ethan&amp;rsquo;s &lt;a href="http://ethan-roland.com/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Paper &lt;a href="https://modularpretraining.com/" target="_blank" rel="noopener">landing page&lt;/a>&lt;/li>
+&lt;li>Anthropic&amp;rsquo;s &lt;a href="https://www.anthropic.com/research/off-switch-dual-use" target="_blank" rel="noopener">press release&lt;/a> and &lt;a href="https://alignment.anthropic.com/2026/modular-pretraining/" target="_blank" rel="noopener">blogpost&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="relevant-prior-works">Relevant Prior Works&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2410.04332" target="_blank" rel="noopener">Preprint&lt;/a> - Gradient Routing: Masking Gradients to Localize Computation in Neural Networks&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2512.05648" target="_blank" rel="noopener">Preprint&lt;/a> - Beyond Data Filtering: Knowledge Localization for Capability Removal in LLMs&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/2508.06601" target="_blank" rel="noopener">paper&lt;/a> and &lt;a href="https://deepignorance.ai" target="_blank" rel="noopener">webpage&lt;/a> - Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/1803.03635" target="_blank" rel="noopener">paper&lt;/a> - The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/2412.01951v2" target="_blank" rel="noopener">paper&lt;/a> - Self-Improvement in Language Models:
+The Sharpening Mechanism&lt;/li>
+&lt;/ul>
+&lt;h3 id="cbrne">CBRN(e)&lt;/h3>
+&lt;ul>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/CBRN_defense" target="_blank" rel="noopener">article&lt;/a> - CBRN defense&lt;/li>
+&lt;li>NTI &lt;a href="https://www.nti.org/news/new-nti-tutorials-edcuate-biological-weapons-and-nuclear-testing/" target="_blank" rel="noopener">tutorials&lt;/a> on bioweapons and nuclear testing&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>Exploring Language Models &lt;a href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts" target="_blank" rel="noopener">substack article&lt;/a> - A Visual Guide to Mixture of Experts (MoE)&lt;/li>
+&lt;li>ICLR &lt;a href="https://arxiv.org/abs/1701.06538" target="_blank" rel="noopener">paper&lt;/a> - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer&lt;/li>
+&lt;li>Swift &lt;a href="https://www.swift.com/risk-and-compliance/know-your-customer-kyc/kyc-process" target="_blank" rel="noopener">blogpost&lt;/a> - The KYC process explained&lt;/li>
+&lt;li>FATF &lt;a href="https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html" target="_blank" rel="noopener">recommendations&lt;/a> on KYC&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>AI, Reasoning or Rambling?</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e015/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e015/</guid><description>&lt;div style="text-align: justify">
 &lt;p>In this episode, we redefine AI&amp;rsquo;s &amp;ldquo;reasoning&amp;rdquo; as mere &lt;em>rambling&lt;/em>, exposing the &amp;ldquo;illusion of thinking&amp;rdquo; and &amp;ldquo;Potemkin understanding&amp;rdquo; in current models. We contrast the classical definition of reasoning (requiring logic and consistency) with Big Tech&amp;rsquo;s new version, which is a generic statement about information processing. We explain how Large Rambling Models generate extensive, often irrelevant, &lt;em>rambling traces&lt;/em> that appear to improve benchmarks, largely due to best-of-N sampling and benchmark gaming.&lt;/p>
 &lt;p>Words and definitions actually matter! Carelessness leads to misplaced investments and an overestimation of systems that are currently just surprisingly useful autocorrects.&lt;/p>
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
