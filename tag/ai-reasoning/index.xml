@@ -9,7 +9,7 @@
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.07.07&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:40 ❙ OBB update and Meta's talent acquisition&lt;br>
 00:03:09 ❙ What are rambling models?&lt;br>
@@ -23,8 +23,8 @@
 00:55:40 ❙ Costs and limitations&lt;br>
 00:58:24 ❙ Claude's anecdote and the Vending Bench&lt;br>
 01:03:05 ❙ Definitional switch and implications&lt;br>
-01:10:18 ❙ Outro&lt;br>
-&lt;/div>
+01:10:18 ❙ Outro
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Apple &lt;a href="http://arxiv.org/abs/2506.06941" target="_blank" rel="noopener">paper&lt;/a> - The Illusion of Thinking&lt;/li>

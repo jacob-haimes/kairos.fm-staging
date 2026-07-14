@@ -7,14 +7,14 @@
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.06.16; &lt;a href="https://share.transistor.fm/s/4dc2e4e8/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Intro&lt;br>
 05:37 ❙ Fable/Mythos Updates&lt;br>
 26:17 ❙ SpaceX's IPO and the Cursor Buyout&lt;br>
 34:57 ❙ Anatomy of an AI Bubble&lt;br>
 40:02 ❙ Anthropic Core and "AI as Expert Systems"&lt;br>
 50:03 ❙ Guardrails, Chinese Models, and Whether We Can Trust the Benchmarks
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;h3 id="the-fable--mythos-saga">The Fable / Mythos Saga&lt;/h3>
 &lt;ul>
@@ -275,7 +275,7 @@ Zainab Majid, co-founder of Asymmetric Security, joins Jacob for a conversation 
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.04.07; &lt;a href="https://share.transistor.fm/s/e34725f5/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction&lt;br>
 02:45 ❙ The Booster Tier List &lt;br>
 07:48 ❙ A-Tier: The Genuine Enthusiast&lt;br>
@@ -287,7 +287,7 @@ Zainab Majid, co-founder of Asymmetric Security, joins Jacob for a conversation 
 31:08 ❙ Bonus Tier: Crit Hype&lt;br>
 39:28 ❙ So What Do We Actually Do With This?&lt;br>
 46:04 ❙ Outro (Igor's Challenge)
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Ed Zitron &lt;a href="https://www.wheresyoured.at/how-to-argue-with-an-ai-booster/" target="_blank" rel="noopener">Substack article&lt;/a> - How to Argue with an AI Booster&lt;/li>
@@ -313,14 +313,14 @@ Zainab Majid, co-founder of Asymmetric Security, joins Jacob for a conversation 
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.03.17; &lt;a href="https://share.transistor.fm/s/3cb922a8/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction&lt;br>
 00:44 ❙ DoD-Anthropic Standoff&lt;br>
 15:08 ❙ 3 Buckets of Motivation&lt;br>
 35:39 ❙ How to Read What They're Actually Doing&lt;br>
 44:04 ❙ Is This Designation Even Real?&lt;br>
 53:39 ❙ Recap (Pragmatist's Playbook)
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Ed Zitron &lt;a href="https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/" target="_blank" rel="noopener">subtack article&lt;/a> - The AI Bubble Is An Information War&lt;/li>
@@ -443,7 +443,7 @@ Technology has been moving faster than policy for some time now, and the advent 
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.02.08; &lt;a href="" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction&lt;br>
 00:30 ❙ Altman's Super Bowl Meltdown&lt;br>
 03:11 ❙ What is "The Bear"?&lt;br>
@@ -452,7 +452,7 @@ Technology has been moving faster than policy for some time now, and the advent 
 24:43 ❙ But They Take Our Jobs &amp; But The Plagiarism&lt;br>
 31:21 ❙ Stochastic Parrots &amp; Mythical Bears&lt;br>
 42:34 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;h3 id="people-talking-about-strawman-ai-haters">(People Talking About) Strawman AI Haters&lt;/h3>
 &lt;ul>
@@ -640,14 +640,14 @@ We're talking about developments in AI while those in power have unapologeticall
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.01.25; &lt;a href="https://share.transistor.fm/s/20244848/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction&lt;br>
 03:57 ❙ The Authoritarian Stack&lt;br>
 08:33 ❙ Palantir &amp; Thiel-Government Consolidation&lt;br>
 13:44 ❙ Move Fast &amp; Break Everything&lt;br>
 23:14 ❙ Fascism in the US &amp; Starving the Beast&lt;br>
 39:48 ❙ Finding Local Opportunities for Action
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>The Authoritarian Stack &lt;a href="https://www.authoritarian-stack.info/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
@@ -820,7 +820,7 @@ We're talking about developments in AI while those in power have unapologeticall
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.12.14; &lt;a href="https://share.transistor.fm/s/420d029d/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction&lt;br>
 05:07 ❙ What Changed Igor’s Mind&lt;br>
 18:27 ❙ Rote Tasks Explained&lt;br>
@@ -828,7 +828,7 @@ We're talking about developments in AI while those in power have unapologeticall
 30:48 ❙ AGI Is Still BS&lt;br>
 34:07 ❙ Externalities Remain Unchanged&lt;br>
 37:49 ❙ Final Thoughts &amp; Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Related muckrAIkers &lt;a href="https://kairos.fm/muckraikers/e018" target="_blank" rel="noopener">episode&lt;/a> - Tech Bros Love AI Waifus&lt;/li>
@@ -957,14 +957,14 @@ OpenAI is pivoting to porn while public sentiment turns decisively against AI. P
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.11.16; &lt;a href="https://share.transistor.fm/s/e54d3007/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction&lt;br>
 06:45 ❙ The Addiction Business Model&lt;br>
 10:15 ❙ Public Sentiment Data&lt;br>
 22:45 ❙ Data Centers and Infrastructure Problems&lt;br>
 36:30 ❙ The Bubble Discussion&lt;br>
 44:36 ❙ Closing Thoughts &amp; Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;h3 id="public-sentiment-on-ai">Public Sentiment on AI&lt;/h3>
 &lt;ul>
@@ -1272,14 +1272,14 @@ Alistair Lowe-Norris, Chief Responsible AI Officer at Iridius and co-host of The
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.09.28; &lt;a href="https://share.transistor.fm/s/222dc32a/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction &amp; AI Investment Insanity&lt;br>
 01:43 ❙ The Problem with AI Safety&lt;br>
 08:16 ❙ Anthropomorphizing AI &amp; Its Dangers&lt;br>
 26:55 ❙ Mental Health, Wellness, and AI&lt;br>
 39:15 ❙ Censorship, Bias, and Dual Use&lt;br>
 44:42 ❙ Solutions, Community Action &amp; Final Thoughts
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;h3 id="ai-ethics--philosophy">AI Ethics &amp;amp; Philosophy&lt;/h3>
 &lt;ul>
@@ -1415,7 +1415,7 @@ We dig into how the concept of AI "safety" has been co-opted and weaponized by t
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.08.05&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:21 ❙ Mecha-Hitler Grok&lt;br>
 00:10:07 ❙ "Safety"&lt;br>
@@ -1423,7 +1423,7 @@ We dig into how the concept of AI "safety" has been co-opted and weaponized by t
 00:53:56 ❙ This time isn't different&lt;br>
 01:01:46 ❙ Alignment Tax myth&lt;br>
 01:17:37 ❙ Actually making AI safer
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>JMLR &lt;a href="https://www.jmlr.org/papers/v23/20-1335.html" target="_blank" rel="noopener">article&lt;/a> - Underspecification Presents Challenges for Credibility in Modern Machine Learning&lt;/li>
@@ -1538,7 +1538,7 @@ Tech CEO Explains: The Real Reason Behind AI Layoffs&lt;/li>
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.07.07&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:40 ❙ OBB update and Meta's talent acquisition&lt;br>
 00:03:09 ❙ What are rambling models?&lt;br>
@@ -1552,8 +1552,8 @@ Tech CEO Explains: The Real Reason Behind AI Layoffs&lt;/li>
 00:55:40 ❙ Costs and limitations&lt;br>
 00:58:24 ❙ Claude's anecdote and the Vending Bench&lt;br>
 01:03:05 ❙ Definitional switch and implications&lt;br>
-01:10:18 ❙ Outro&lt;br>
-&lt;/div>
+01:10:18 ❙ Outro
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Apple &lt;a href="http://arxiv.org/abs/2506.06941" target="_blank" rel="noopener">paper&lt;/a> - The Illusion of Thinking&lt;/li>
@@ -1685,7 +1685,7 @@ In this episode, we break down Trump's "One Big Beautiful Bill" and its dystopia
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.06.15; &lt;a href="https://share.transistor.fm/s/4feaace0/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Intro&lt;br>
 01:13 ❙ Bill, general overview&lt;br>
 05:14 ❙ Bill, AI overview&lt;br>
@@ -1696,7 +1696,7 @@ In this episode, we break down Trump's "One Big Beautiful Bill" and its dystopia
 37:05 ❙ Tax incentives for development&lt;br>
 40:57 ❙ Regulatory moratorium&lt;br>
 47:58 ❙ One big bad authoritarian regime
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Congress &lt;a href="https://www.congress.gov/bill/119th-congress/house-bill/1/text" target="_blank" rel="noopener">page&lt;/a> on the One Big Beautiful Bill Act&lt;/li>
@@ -1764,7 +1764,7 @@ In this episode, we break down Trump's "One Big Beautiful Bill" and its dystopia
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.05.17&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Recording date&lt;br>
 00:52 ❙ MIT denounces paper&lt;br>
 04:09 ❙ Grok's white genocide&lt;br>
@@ -1774,7 +1774,7 @@ In this episode, we break down Trump's "One Big Beautiful Bill" and its dystopia
 29:46 ❙ Removing the last cost centers&lt;br>
 47:16 ❙ "This time is different" (explosive growth)&lt;br>
 57:55 ❙ Alpha Evolve, optimization, and slippage
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>University of Chicago &lt;a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219933" target="_blank" rel="noopener">working paper&lt;/a> - Large Language Models, Small Labor Market Effects&lt;/li>
@@ -1878,7 +1878,7 @@ DeepSeek has been out for over 2 months now, and things have begun to settle dow
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.03.30&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:40 ❙ DeepSeek R1 recap&lt;br>
 00:02:46 ❙ What makes it new?&lt;br>
 00:08:53 ❙ What is reasoning?&lt;br>
@@ -1890,7 +1890,7 @@ DeepSeek has been out for over 2 months now, and things have begun to settle dow
 01:14:20 ❙ US government involvement&lt;br>
 01:23:28 ❙ OpenAI uses MCP&lt;br>
 01:28:15 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>DeepSeek &lt;a href="https://www.deepseek.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
@@ -2095,14 +2095,14 @@ DeepSeek R1 has taken the world by storm, causing a stock market crash and promp
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.02.09&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Recording date&lt;br>
 00:04 ❙ Intro&lt;br>
 00:37 ❙ DeepSeek drop and reactions&lt;br>
 04:27 ❙ Export controls&lt;br>
 08:05 ❙ Skepticism and uncertainty&lt;br>
 14:12 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>DeepSeek &lt;a href="https://www.deepseek.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
@@ -2144,7 +2144,7 @@ Chris Canal, co-founder of EquiStamp, joins muckrAIkers as our first ever podcas
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.01.19&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Recording date&lt;br>
 00:00:05 ❙ Intro&lt;br>
 00:00:29 ❙ Hot off the press&lt;br>
@@ -2163,7 +2163,7 @@ Chris Canal, co-founder of EquiStamp, joins muckrAIkers as our first ever podcas
 02:45:23 ❙ Orthogonality Thesis&lt;br>
 03:04:31 ❙ Why we do this&lt;br>
 03:15:36 ❙ Equistamp!
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.equistamp.com" target="_blank" rel="noopener">EquiStamp&lt;/a>&lt;/li>
@@ -2531,7 +2531,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 }
 &lt;/script>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Recording date&lt;br>
 00:00:05 ❙ Intro&lt;br>
 00:00:44 ❙ Obligatory mentions&lt;br>
@@ -2546,7 +2546,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 01:13:12 ❙ Initial takes on o3&lt;br>
 01:18:12 ❙ WorkArena&lt;br>
 01:25:00 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;div style="text-align: justify">
 &lt;p>&lt;em>Note: many workshop papers had not yet been published to arXiv as of preparing this episode, the OpenReview submission page is provided in these cases.&lt;/em>&lt;/p>
@@ -2804,7 +2804,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 }
 &lt;/script>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:00 ❙ Recorded 2024.12.08&lt;br>
 00:00:54 ❙ Actual intro&lt;br>
@@ -2826,7 +2826,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 01:04:45 ❙ SWE Verified&lt;br>
 01:05:44 ❙ Appendix bias metrics&lt;br>
 01:10:17 ❙ The muck and the meaning
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>o1 &lt;a href="https://cdn.openai.com/o1-system-card-20241205.pdf" target="_blank" rel="noopener">system card&lt;/a>&lt;/li>
@@ -2881,7 +2881,7 @@ While on the campaign trail, Trump made claims about repealing Biden's Executive
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Intro&lt;br>
 00:29 ❙ Hot off the press&lt;br>
 02:59 ❙ Repealing the AI executive order?&lt;br>
@@ -2893,7 +2893,7 @@ While on the campaign trail, Trump made claims about repealing Biden's Executive
 45:23 ❙ China&lt;br>
 51:12 ❙ Taxes&lt;br>
 55:29 ❙ The muck
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>SFChronicle &lt;a href="https://www.sfchronicle.com/business/article/us-gathers-allies-to-talk-ai-safety-trump-s-vow-19932278.php" target="_blank" rel="noopener">article&lt;/a> - US gathers allies to talk AI safety as Trump&amp;rsquo;s vow to undo Biden&amp;rsquo;s AI policy overshadows their work&lt;/li>
@@ -2992,7 +2992,7 @@ BROWNSVILLE, TEXAS - NOVEMBER 19, 2024: US President-elect Donald Trump speaks a
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:23 ❙ Hot off the press&lt;br>
 00:01:49 ❙ The end of scaling&lt;br>
@@ -3005,7 +3005,7 @@ BROWNSVILLE, TEXAS - NOVEMBER 19, 2024: US President-elect Donald Trump speaks a
 00:49:19 ❙ Finding the meaning&lt;br>
 00:56:14 ❙ Bursting AI bubble and Trump&lt;br>
 01:00:58 ❙ The muck
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>The Information &lt;a href="https://www.theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows?rc=tgppn6" target="_blank" rel="noopener">article&lt;/a> - OpenAI Shifts Strategy as Rate of ‘GPT’ AI Improvements Slows&lt;/li>
@@ -3271,7 +3271,7 @@ Rethinking CyberSecEval Thumbnail /
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:48 ❙ The memorandum&lt;br>
 00:06:28 ❙ What the press is saying&lt;br>
 00:10:39 ❙ What's in the text&lt;br>
@@ -3282,7 +3282,7 @@ Rethinking CyberSecEval Thumbnail /
 00:49:31 ❙ The commenters&lt;br>
 01:07:33 ❙ Our final hero&lt;br>
 01:10:46 ❙ The muck
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/" target="_blank" rel="noopener">United States National Security Memorandum on AI&lt;/a>&lt;/li>
@@ -3323,7 +3323,7 @@ Rethinking CyberSecEval Thumbnail /
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Intro&lt;br>
 00:22 ❙ Hot off the press&lt;br>
 05:03 ❙ Claude 3.5 Sonnet (New) Two 'o' 3000&lt;br>
@@ -3333,7 +3333,7 @@ Rethinking CyberSecEval Thumbnail /
 32:07 ❙ Why has Anthropic chosen this strategy?&lt;br>
 43:14 ❙ Changing the frame&lt;br>
 48:00 ❙ Polishing the lily
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Anthropic press release - &lt;a href="https://www.anthropic.com/news/3-5-models-and-computer-use" target="_blank" rel="noopener">Introducing Claude 3.5 Sonnet (New)&lt;/a>&lt;/li>
@@ -3370,7 +3370,7 @@ Brace yourselves, winter is coming for OpenAI - atleast, that's what we think. I
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:28 ❙ Hot off the press&lt;br>
 00:02:43 ❙ Why listen?&lt;br>
@@ -3387,7 +3387,7 @@ Brace yourselves, winter is coming for OpenAI - atleast, that's what we think. I
 01:10:51 ❙ Outcome 4+: shock factor&lt;br>
 01:12:51 ❙ What's the muck&lt;br>
 01:21:17 ❙ Extended outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Reuters article - &lt;a href="https://www.reuters.com/technology/artificial-intelligence/openai-closes-66-billion-funding-haul-valuation-157-billion-with-investment-2024-10-02/" target="_blank" rel="noopener">OpenAI closes $6.6 billion funding haul with investment from Microsoft and Nvidia&lt;/a>&lt;/li>
@@ -3520,7 +3520,7 @@ The Open Source AI Definition is out after years of drafting, will it reestablis
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:30 ❙ Hot off the press&lt;br>
 00:03:45 ❙ Open Source AI background&lt;br>
@@ -3534,7 +3534,7 @@ The Open Source AI Definition is out after years of drafting, will it reestablis
 00:50:29 ❙ Takeaways&lt;br>
 00:52:03 ❙ What’s the real muck?&lt;br>
 01:00:27 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://opensource.org/deepdive/drafts/the-open-source-ai-definition-1-0-rc1" target="_blank" rel="noopener">Open Source AI Definition, Release Candidate 1&lt;/a>&lt;/li>
@@ -3660,7 +3660,7 @@ Why is Mark Ruffalo talking about SB1047, and what is it anyway? Tune in for our
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:31 ❙ Updates from a relatively slow week&lt;br>
 00:03:32 ❙ Disclaimer: SB1047 vetoed during recording (still worth a listen)&lt;br>
@@ -3673,7 +3673,7 @@ Why is Mark Ruffalo talking about SB1047, and what is it anyway? Tune in for our
 01:02:36 ❙ Takeaways&lt;br>
 01:15:40 ❙ Clarification on impact to big tech&lt;br>
 01:18:51 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://legiscan.com/CA/text/SB1047/2023" target="_blank" rel="noopener">SB1047 legislation page&lt;/a>&lt;/li>
@@ -3718,7 +3718,7 @@ OpenAI's new model is out, and we are going to have to rake through a lot of muc
 &lt;span class="dark:text-neutral-300">Opt out of LinkedIn&amp;rsquo;s GenAI scraping ➡️ &lt;a href="https://lnkd.in/epziUeTi" target="_blank" rel="noopener">https://lnkd.in/epziUeTi&lt;/a>&lt;/span>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Intro&lt;br>
 00:25 ❙ Other recent news&lt;br>
 02:57 ❙ Hot off the press&lt;br>
@@ -3729,7 +3729,7 @@ OpenAI's new model is out, and we are going to have to rake through a lot of muc
 27:09 ❙ Reflection AI Drama&lt;br>
 40:19 ❙ Why do we care?&lt;br>
 46:39 ❙ Scraping away the muck
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;p>&lt;em>Note: at around 32 minutes, Igor says the incorrect Llama model version for the story he is telling. Jacob dubbed over those mistakes with the correct versioning.&lt;/em>&lt;/p>
 &lt;h2 id="links-relating-to-o1">Links relating to o1&lt;/h2>
 &lt;ul>

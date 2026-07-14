@@ -329,7 +329,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 }
 &lt;/script>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Recording date&lt;br>
 00:00:05 ❙ Intro&lt;br>
 00:00:44 ❙ Obligatory mentions&lt;br>
@@ -344,7 +344,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 01:13:12 ❙ Initial takes on o3&lt;br>
 01:18:12 ❙ WorkArena&lt;br>
 01:25:00 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;div style="text-align: justify">
 &lt;p>&lt;em>Note: many workshop papers had not yet been published to arXiv as of preparing this episode, the OpenReview submission page is provided in these cases.&lt;/em>&lt;/p>

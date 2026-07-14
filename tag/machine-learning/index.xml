@@ -60,7 +60,7 @@ The Sharpening Mechanism&lt;/li>
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.07.07&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:40 ❙ OBB update and Meta's talent acquisition&lt;br>
 00:03:09 ❙ What are rambling models?&lt;br>
@@ -74,8 +74,8 @@ The Sharpening Mechanism&lt;/li>
 00:55:40 ❙ Costs and limitations&lt;br>
 00:58:24 ❙ Claude's anecdote and the Vending Bench&lt;br>
 01:03:05 ❙ Definitional switch and implications&lt;br>
-01:10:18 ❙ Outro&lt;br>
-&lt;/div>
+01:10:18 ❙ Outro
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Apple &lt;a href="http://arxiv.org/abs/2506.06941" target="_blank" rel="noopener">paper&lt;/a> - The Illusion of Thinking&lt;/li>
@@ -119,7 +119,7 @@ DeepSeek has been out for over 2 months now, and things have begun to settle dow
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.03.30&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:40 ❙ DeepSeek R1 recap&lt;br>
 00:02:46 ❙ What makes it new?&lt;br>
 00:08:53 ❙ What is reasoning?&lt;br>
@@ -131,7 +131,7 @@ DeepSeek has been out for over 2 months now, and things have begun to settle dow
 01:14:20 ❙ US government involvement&lt;br>
 01:23:28 ❙ OpenAI uses MCP&lt;br>
 01:28:15 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>DeepSeek &lt;a href="https://www.deepseek.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
@@ -212,14 +212,14 @@ DeepSeek R1 has taken the world by storm, causing a stock market crash and promp
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.02.09&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Recording date&lt;br>
 00:04 ❙ Intro&lt;br>
 00:37 ❙ DeepSeek drop and reactions&lt;br>
 04:27 ❙ Export controls&lt;br>
 08:05 ❙ Skepticism and uncertainty&lt;br>
 14:12 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>DeepSeek &lt;a href="https://www.deepseek.com" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
@@ -575,7 +575,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 }
 &lt;/script>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Recording date&lt;br>
 00:00:05 ❙ Intro&lt;br>
 00:00:44 ❙ Obligatory mentions&lt;br>
@@ -590,7 +590,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 01:13:12 ❙ Initial takes on o3&lt;br>
 01:18:12 ❙ WorkArena&lt;br>
 01:25:00 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;div style="text-align: justify">
 &lt;p>&lt;em>Note: many workshop papers had not yet been published to arXiv as of preparing this episode, the OpenReview submission page is provided in these cases.&lt;/em>&lt;/p>
@@ -820,7 +820,7 @@ OpenAI's new model is out, and we are going to have to rake through a lot of muc
 &lt;span class="dark:text-neutral-300">Opt out of LinkedIn&amp;rsquo;s GenAI scraping ➡️ &lt;a href="https://lnkd.in/epziUeTi" target="_blank" rel="noopener">https://lnkd.in/epziUeTi&lt;/a>&lt;/span>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Intro&lt;br>
 00:25 ❙ Other recent news&lt;br>
 02:57 ❙ Hot off the press&lt;br>
@@ -831,7 +831,7 @@ OpenAI's new model is out, and we are going to have to rake through a lot of muc
 27:09 ❙ Reflection AI Drama&lt;br>
 40:19 ❙ Why do we care?&lt;br>
 46:39 ❙ Scraping away the muck
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;p>&lt;em>Note: at around 32 minutes, Igor says the incorrect Llama model version for the story he is telling. Jacob dubbed over those mistakes with the correct versioning.&lt;/em>&lt;/p>
 &lt;h2 id="links-relating-to-o1">Links relating to o1&lt;/h2>
 &lt;ul>

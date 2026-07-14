@@ -7,7 +7,7 @@ The Open Source AI Definition is out after years of drafting, will it reestablis
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:30 ❙ Hot off the press&lt;br>
 00:03:45 ❙ Open Source AI background&lt;br>
@@ -21,7 +21,7 @@ The Open Source AI Definition is out after years of drafting, will it reestablis
 00:50:29 ❙ Takeaways&lt;br>
 00:52:03 ❙ What’s the real muck?&lt;br>
 01:00:27 ❙ Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://opensource.org/deepdive/drafts/the-open-source-ai-definition-1-0-rc1" target="_blank" rel="noopener">Open Source AI Definition, Release Candidate 1&lt;/a>&lt;/li>

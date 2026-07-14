@@ -175,7 +175,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 }
 &lt;/script>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:00 ❙ Recorded 2024.12.08&lt;br>
 00:00:54 ❙ Actual intro&lt;br>
@@ -197,7 +197,7 @@ document.getElementById("viewerBox" + ind).classList.add("hidden");
 01:04:45 ❙ SWE Verified&lt;br>
 01:05:44 ❙ Appendix bias metrics&lt;br>
 01:10:17 ❙ The muck and the meaning
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>o1 &lt;a href="https://cdn.openai.com/o1-system-card-20241205.pdf" target="_blank" rel="noopener">system card&lt;/a>&lt;/li>

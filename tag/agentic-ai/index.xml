@@ -9,7 +9,7 @@
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.12.14; &lt;a href="https://share.transistor.fm/s/420d029d/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction&lt;br>
 05:07 ❙ What Changed Igor’s Mind&lt;br>
 18:27 ❙ Rote Tasks Explained&lt;br>
@@ -17,7 +17,7 @@
 30:48 ❙ AGI Is Still BS&lt;br>
 34:07 ❙ Externalities Remain Unchanged&lt;br>
 37:49 ❙ Final Thoughts &amp; Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Related muckrAIkers &lt;a href="https://kairos.fm/muckraikers/e018" target="_blank" rel="noopener">episode&lt;/a> - Tech Bros Love AI Waifus&lt;/li>
@@ -117,7 +117,7 @@ Alistair Lowe-Norris, Chief Responsible AI Officer at Iridius and co-host of The
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.07.07&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:40 ❙ OBB update and Meta's talent acquisition&lt;br>
 00:03:09 ❙ What are rambling models?&lt;br>
@@ -131,8 +131,8 @@ Alistair Lowe-Norris, Chief Responsible AI Officer at Iridius and co-host of The
 00:55:40 ❙ Costs and limitations&lt;br>
 00:58:24 ❙ Claude's anecdote and the Vending Bench&lt;br>
 01:03:05 ❙ Definitional switch and implications&lt;br>
-01:10:18 ❙ Outro&lt;br>
-&lt;/div>
+01:10:18 ❙ Outro
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Apple &lt;a href="http://arxiv.org/abs/2506.06941" target="_blank" rel="noopener">paper&lt;/a> - The Illusion of Thinking&lt;/li>

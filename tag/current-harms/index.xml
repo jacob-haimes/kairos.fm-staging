@@ -187,14 +187,14 @@ alt="Illustrations of six data workers, working at computers in isolation from e
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.09.28; &lt;a href="https://share.transistor.fm/s/222dc32a/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction &amp; AI Investment Insanity&lt;br>
 01:43 ❙ The Problem with AI Safety&lt;br>
 08:16 ❙ Anthropomorphizing AI &amp; Its Dangers&lt;br>
 26:55 ❙ Mental Health, Wellness, and AI&lt;br>
 39:15 ❙ Censorship, Bias, and Dual Use&lt;br>
 44:42 ❙ Solutions, Community Action &amp; Final Thoughts
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;h3 id="ai-ethics--philosophy">AI Ethics &amp;amp; Philosophy&lt;/h3>
 &lt;ul>
@@ -242,7 +242,7 @@ We dig into how the concept of AI "safety" has been co-opted and weaponized by t
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.08.05&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:21 ❙ Mecha-Hitler Grok&lt;br>
 00:10:07 ❙ "Safety"&lt;br>
@@ -250,7 +250,7 @@ We dig into how the concept of AI "safety" has been co-opted and weaponized by t
 00:53:56 ❙ This time isn't different&lt;br>
 01:01:46 ❙ Alignment Tax myth&lt;br>
 01:17:37 ❙ Actually making AI safer
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>JMLR &lt;a href="https://www.jmlr.org/papers/v23/20-1335.html" target="_blank" rel="noopener">article&lt;/a> - Underspecification Presents Challenges for Credibility in Modern Machine Learning&lt;/li>

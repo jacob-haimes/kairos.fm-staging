@@ -8,14 +8,14 @@
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.03.17; &lt;a href="https://share.transistor.fm/s/3cb922a8/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction&lt;br>
 00:44 ❙ DoD-Anthropic Standoff&lt;br>
 15:08 ❙ 3 Buckets of Motivation&lt;br>
 35:39 ❙ How to Read What They're Actually Doing&lt;br>
 44:04 ❙ Is This Designation Even Real?&lt;br>
 53:39 ❙ Recap (Pragmatist's Playbook)
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Ed Zitron &lt;a href="https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/" target="_blank" rel="noopener">subtack article&lt;/a> - The AI Bubble Is An Information War&lt;/li>
@@ -60,14 +60,14 @@ OpenAI is pivoting to porn while public sentiment turns decisively against AI. P
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.11.16; &lt;a href="https://share.transistor.fm/s/e54d3007/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Introduction&lt;br>
 06:45 ❙ The Addiction Business Model&lt;br>
 10:15 ❙ Public Sentiment Data&lt;br>
 22:45 ❙ Data Centers and Infrastructure Problems&lt;br>
 36:30 ❙ The Bubble Discussion&lt;br>
 44:36 ❙ Closing Thoughts &amp; Outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;h3 id="public-sentiment-on-ai">Public Sentiment on AI&lt;/h3>
 &lt;ul>
@@ -129,7 +129,7 @@ OpenAI is pivoting to porn while public sentiment turns decisively against AI. P
 &lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2025.05.17&lt;/a>&lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Recording date&lt;br>
 00:52 ❙ MIT denounces paper&lt;br>
 04:09 ❙ Grok's white genocide&lt;br>
@@ -139,7 +139,7 @@ OpenAI is pivoting to porn while public sentiment turns decisively against AI. P
 29:46 ❙ Removing the last cost centers&lt;br>
 47:16 ❙ "This time is different" (explosive growth)&lt;br>
 57:55 ❙ Alpha Evolve, optimization, and slippage
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>University of Chicago &lt;a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219933" target="_blank" rel="noopener">working paper&lt;/a> - Large Language Models, Small Labor Market Effects&lt;/li>
@@ -186,7 +186,7 @@ algorithmic discovery&lt;/li>
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:23 ❙ Hot off the press&lt;br>
 00:01:49 ❙ The end of scaling&lt;br>
@@ -199,7 +199,7 @@ algorithmic discovery&lt;/li>
 00:49:19 ❙ Finding the meaning&lt;br>
 00:56:14 ❙ Bursting AI bubble and Trump&lt;br>
 01:00:58 ❙ The muck
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>The Information &lt;a href="https://www.theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows?rc=tgppn6" target="_blank" rel="noopener">article&lt;/a> - OpenAI Shifts Strategy as Rate of ‘GPT’ AI Improvements Slows&lt;/li>
@@ -254,7 +254,7 @@ algorithmic discovery&lt;/li>
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00 ❙ Intro&lt;br>
 00:22 ❙ Hot off the press&lt;br>
 05:03 ❙ Claude 3.5 Sonnet (New) Two 'o' 3000&lt;br>
@@ -264,7 +264,7 @@ algorithmic discovery&lt;/li>
 32:07 ❙ Why has Anthropic chosen this strategy?&lt;br>
 43:14 ❙ Changing the frame&lt;br>
 48:00 ❙ Polishing the lily
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Anthropic press release - &lt;a href="https://www.anthropic.com/news/3-5-models-and-computer-use" target="_blank" rel="noopener">Introducing Claude 3.5 Sonnet (New)&lt;/a>&lt;/li>
@@ -301,7 +301,7 @@ Brace yourselves, winter is coming for OpenAI - atleast, that's what we think. I
 &lt;/div>
 &lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
-&lt;div style="text-align: left; font-family:monospace;">
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
 00:00:28 ❙ Hot off the press&lt;br>
 00:02:43 ❙ Why listen?&lt;br>
@@ -318,7 +318,7 @@ Brace yourselves, winter is coming for OpenAI - atleast, that's what we think. I
 01:10:51 ❙ Outcome 4+: shock factor&lt;br>
 01:12:51 ❙ What's the muck&lt;br>
 01:21:17 ❙ Extended outro
-&lt;/div>
+&lt;/small>&lt;/div>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
 &lt;li>Reuters article - &lt;a href="https://www.reuters.com/technology/artificial-intelligence/openai-closes-66-billion-funding-haul-valuation-157-billion-with-investment-2024-10-02/" target="_blank" rel="noopener">OpenAI closes $6.6 billion funding haul with investment from Microsoft and Nvidia&lt;/a>&lt;/li>
