@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/posts/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/posts/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Posts</title><link>https://jacob-haimes.github.io/kairos.fm-staging/posts/</link></image><item><title>Pretraining Safety w/ Ethan Roland</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e032/</link><pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e032/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/posts/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/posts/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Posts</title><link>https://jacob-haimes.github.io/kairos.fm-staging/posts/</link></image><item><title>The Finding-Out Era of AI</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e024/</link><pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e024/</guid><description>&lt;div style="text-align: justify">
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/4dc2e4e8">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.06.16; &lt;a href="https://share.transistor.fm/s/4dc2e4e8/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">
+00:00 ❙ Intro&lt;br>
+05:37 ❙ Fable/Mythos Updates&lt;br>
+26:17 ❙ SpaceX's IPO and the Cursor Buyout&lt;br>
+34:57 ❙ Anatomy of an AI Bubble&lt;br>
+40:02 ❙ Anthropic Core and "AI as Expert Systems"&lt;br>
+50:03 ❙ Guardrails, Chinese Models, and Whether We Can Trust the Benchmarks
+&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;h3 id="the-fable--mythos-saga">The Fable / Mythos Saga&lt;/h3>
+&lt;ul>
+&lt;li>Anthropic &lt;a href="https://www.anthropic.com/news/fable-mythos-access" target="_blank" rel="noopener">statement&lt;/a> - Statement on the US government directive to suspend access to Fable 5 and Mythos 5&lt;/li>
+&lt;li>Anthropic &lt;a href="https://www.anthropic.com/news/redeploying-fable-5" target="_blank" rel="noopener">statement&lt;/a> - Redeploying Claude Fable 5&lt;/li>
+&lt;li>Tech Policy Press &lt;a href="https://www.techpolicy.press/did-the-us-government-just-set-an-ai-export-precedent-by-blocking-mythos/" target="_blank" rel="noopener">analysis&lt;/a> - Did the US Government Just Set an AI Export Precedent by Blocking Mythos?&lt;/li>
+&lt;li>Axios &lt;a href="https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security" target="_blank" rel="noopener">article&lt;/a> - Scoop: Trump admin blocks foreign access to Anthropic&amp;rsquo;s most powerful AI&lt;/li>
+&lt;li>Luta Security &lt;a href="https://www.lutasecurity.com/post/fable-5-is-back-but-we-re-still-slowing-down-defenders" target="_blank" rel="noopener">blog post&lt;/a> - Fable 5 Is Back, But We&amp;rsquo;re Still Slowing Down Defenders&lt;/li>
+&lt;li>The Register &lt;a href="https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827" target="_blank" rel="noopener">article&lt;/a> - Feds Freaked Over Fable 5 After Simple &amp;lsquo;Fix This Code&amp;rsquo; Prompt&lt;/li>
+&lt;li>Engadget &lt;a href="https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/" target="_blank" rel="noopener">article&lt;/a> - Anthropic Backtracks on Policy That &amp;lsquo;Sabotaged&amp;rsquo; Researchers&amp;rsquo; Work&lt;/li>
+&lt;/ul>
+&lt;h3 id="spacex-ipo-and-the-cursor-buyout">SpaceX IPO and the Cursor Buyout&lt;/h3>
+&lt;ul>
+&lt;li>SEC EDGAR &lt;a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;CIK=0001181412&amp;amp;type=S-1&amp;amp;dateb=&amp;amp;owner=include&amp;amp;count=40" target="_blank" rel="noopener">filing&lt;/a> - Space Exploration Technologies Corp. — S-1 registration statement and amendments&lt;/li>
+&lt;li>CNBC &lt;a href="https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html" target="_blank" rel="noopener">article&lt;/a> - SpaceX to Acquire Cursor Days After IPO&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-compute-deals">The Compute Deals&lt;/h3>
+&lt;ul>
+&lt;li>SEC EDGAR &lt;a href="https://www.sec.gov/Archives/edgar/data/1181412/000162828026041150/spacexagreementfwp.htm" target="_blank" rel="noopener">filing&lt;/a> - SpaceX Free Writing Prospectus — Anthropic and Google compute agreements (S-1 Amendment No. 2)&lt;/li>
+&lt;li>DataCenterDynamics &lt;a href="https://www.datacenterdynamics.com/en/news/spacex-ipo-filing-reveals-anthropic-set-to-pay-musks-firm-125bn-a-month-to-rent-xai-data-center-space/" target="_blank" rel="noopener">article&lt;/a> - SpaceX IPO Filing Reveals Anthropic Set to Pay $1.25bn a Month to Rent xAI Data Center Space&lt;/li>
+&lt;/ul>
+&lt;h3 id="ipo-filings">IPO Filings&lt;/h3>
+&lt;ul>
+&lt;li>CNBC &lt;a href="https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html" target="_blank" rel="noopener">article&lt;/a> - OpenAI Confidentially Files for IPO&lt;/li>
+&lt;li>TechCrunch &lt;a href="https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/" target="_blank" rel="noopener">article&lt;/a> - Following Anthropic, OpenAI Files Confidentially for IPO&lt;/li>
+&lt;/ul>
+&lt;h3 id="google-liable-for-ai-overviews">Google Liable for AI Overviews&lt;/h3>
+&lt;ul>
+&lt;li>Transparency Coalition &lt;a href="https://www.transparencycoalition.ai/news/german-court-holds-google-liable-for-ai-hallucination-read-the-full-decision-here" target="_blank" rel="noopener">court decision&lt;/a> - German Court Holds Google Liable for AI Hallucination (Full Decision)&lt;/li>
+&lt;li>The Decoder &lt;a href="https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/" target="_blank" rel="noopener">article&lt;/a> - Landmark German Ruling Declares Google&amp;rsquo;s AI Overviews Are Google&amp;rsquo;s Own Words&lt;/li>
+&lt;/ul>
+&lt;h3 id="claude-corps">Claude Corps&lt;/h3>
+&lt;ul>
+&lt;li>Anthropic &lt;a href="https://www.anthropic.com/news/claude-corps" target="_blank" rel="noopener">announcement&lt;/a> - Introducing Claude Corps&lt;/li>
+&lt;li>The Register &lt;a href="https://www.theregister.com/ai-and-ml/2026/06/11/anthropic-hires-1000-fellows-to-push-claude-into-nonprofits/5254489" target="_blank" rel="noopener">article&lt;/a> - Anthropic Hires 1,000 Fellows to Push Claude Into Nonprofits&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-pope-on-ai">The Pope on AI&lt;/h3>
+&lt;ul>
+&lt;li>The Vatican &lt;a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html" target="_blank" rel="noopener">encyclical&lt;/a> - Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence&lt;/li>
+&lt;li>Al Jazeera &lt;a href="https://www.aljazeera.com/news/2026/5/25/pope-says-ai-must-be-disarmed-to-prevent-domination-exclusion-and-death" target="_blank" rel="noopener">article&lt;/a> - Pope Says AI Must Be &amp;lsquo;Disarmed&amp;rsquo; to Prevent Domination, Exclusion and Death&lt;/li>
+&lt;/ul>
+&lt;h3 id="gradient-routing">Gradient Routing&lt;/h3>
+&lt;ul>
+&lt;li>Into AI Safety &lt;a href="https://kairos.fm/intoaisafety/e032" target="_blank" rel="noopener">podcast episode&lt;/a> - Pretraining Safety w/ Ethan Roland&lt;/li>
+&lt;li>arXiv &lt;a href="https://arxiv.org/abs/2410.04332" target="_blank" rel="noopener">paper&lt;/a> - Gradient Routing: Masking Gradients to Localize Computation in Neural Networks&lt;/li>
+&lt;li>Anthropic &lt;a href="https://alignment.anthropic.com/2026/modular-pretraining/" target="_blank" rel="noopener">blog post&lt;/a> - Modular Pretraining Enables Access Control&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-sources">Other Sources&lt;/h3>
+&lt;ul>
+&lt;li>Wikipedia &lt;a href="https://de.wikipedia.org/wiki/Vorbereiten_des_Aussp%C3%A4hens_und_Abfangens_von_Daten" target="_blank" rel="noopener">entry&lt;/a> - Vorbereiten des Ausspähens und Abfangens von Daten (§202c StGB, the &amp;ldquo;hacker paragraph&amp;rdquo;)&lt;/li>
+&lt;li>NLnet &lt;a href="https://nlnet.nl/" target="_blank" rel="noopener">foundation&lt;/a> - NLnet Foundation&lt;/li>
+&lt;li>European Commission &lt;a href="https://digital-strategy.ec.europa.eu/en/funding/eu-ai-office-launches-eu9-million-tender-technical-support-gpai-safety" target="_blank" rel="noopener">announcement&lt;/a> - EU AI Office Launches €9 Million Tender for Technical Support on GPAI Safety&lt;/li>
+&lt;li>Turing Post &lt;a href="https://www.turingpost.com/p/chinesemodels" target="_blank" rel="noopener">article&lt;/a> - The Chinese Open-Source Model Landscape: Kimi, DeepSeek, Qwen, GLM&lt;/li>
+&lt;li>Kairos.fm &lt;a href="https://kairos.fm/intoaisafety/e030/" target="_blank" rel="noopener">episode&lt;/a> - Building Asymmetric Defenses w/ Zainab Majid&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Pretraining Safety w/ Ethan Roland</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e032/</link><pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e032/</guid><description>&lt;div style="text-align: justify">
 What if the safest AI models weren't built by adding guardrails after training, but by shaping what gets learned in the first place? Ethan Roland, senior alignment researcher at AE Studio and first author on an ICML 2026 spotlight paper, joins Jacob to talk about gradient routing, a technique that routes dangerous capabilities into isolated parts of a model's architecture where they can be locked or removed entirely. They get into the absorption effect, KYC-style access control frameworks, and what it would actually take for frontier labs to adopt this kind of work before it's needed rather than after.
 &lt;p>Check out the &lt;a href="https://youtu.be/rsjVgoHFZM4" target="_blank" rel="noopener">video version&lt;/a> of this podcast on the Kairos.fm YouTube channel!&lt;/p>
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
