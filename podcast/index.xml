@@ -1,4 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Podcast | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/podcast/index.xml" rel="self" type="application/rss+xml"/><description>Podcast</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Podcast</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link></image><item><title>Tech Elies and UBI: Unpacking the Discourse</title><link>https://jacob-haimes.github.io/kairos.fm-staging/reclaimingubi/e002/</link><pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/reclaimingubi/e002/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Podcast | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/podcast/index.xml" rel="self" type="application/rss+xml"/><description>Podcast</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Podcast</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link></image><item><title>Mapping Civilization's Resilience Gaps w/ Dr. Evan Miyazono</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e033/</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e033/</guid><description>&lt;div style="text-align: justify">
+Dr. Evan Miyazono joins Jacob to talk about his path from quantum networking and Protocol Labs to founding Atlas Computing. They discuss why Atlas moved away from formal methods research and toward what Evan calls “field strategy”: identifying important problems, figuring out what interventions could actually address them, and finding the people best positioned to make them happen. The conversation also covers the resilience gap map, coordination failures, AI safety, "value alignment," and the question of how to decide what work is worth doing when there’s no obvious organization responsible for it.
+&lt;p>Check out the &lt;a href="https://youtu.be/rsjVgoHFZM4" target="_blank" rel="noopener">video version&lt;/a> of this podcast on the Kairos.fm YouTube channel!&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/a4e4e51c">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.05.27; ASIDES RECORDED 2026.07.14; &lt;a href="https://share.transistor.fm/s/a4e4e51c/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
+00:00:00 ❙ Intro&lt;br>
+00:05:03 ❙ From Quantum Internet to Blockchain&lt;br>
+00:13:29 ❙ Founding Atlas Computing&lt;br>
+00:18:25 ❙ Formal Methods Explained (ASIDE)&lt;br>
+00:24:39 ❙ Narrower AI &amp; Domain-Specific Safety&lt;br>
+00:35:54 ❙ The Pivot to Field Strategy&lt;br>
+00:52:27 ❙ Value Alignment vs. Skill&lt;br>
+01:09:16 ❙ The Resilience Gap Map&lt;br>
+01:26:32 ❙ Guarding Against Funder Capture&lt;br>
+01:49:09 ❙ Rapid Fire Questions&lt;br>
+01:58:01 ❙ Outro
+&lt;/small>&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Evan&amp;rsquo;s &lt;a href="https://miyazono.github.io" target="_blank" rel="noopener">personal website&lt;/a>&lt;/li>
+&lt;li>Atlas Computing &lt;a href="https://atlascomputing.org/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>The AI Resilience &lt;a href="https://docs.google.com/spreadsheets/d/1QAdfr71KOM0w5ZsU_8OxLG1q1mDUlJQJBK9UB0WTeT8/edit?usp=sharing" target="_blank" rel="noopener">Gap Map&lt;/a>&lt;/li>
+&lt;li>Atlas Computing &lt;a href="https://blog.atlascomputing.org/p/civilizations-maintenance-backlog" target="_blank" rel="noopener">blogpost&lt;/a> - Civilization&amp;rsquo;s Maintenance Backlog&lt;/li>
+&lt;li>Atlas Computing &lt;a href="https://blog.atlascomputing.org/p/if-your-problem-is-structural-you" target="_blank" rel="noopener">blogpost&lt;/a> - Your Solution Doesn&amp;rsquo;t Know Your Problem Exists&lt;/li>
+&lt;/ul>
+&lt;h3 id="formal-methods">Formal Methods&lt;/h3>
+&lt;ul>
+&lt;li>Galois &lt;a href="https://www.galois.com/what-are-formal-methods" target="_blank" rel="noopener">blogpost&lt;/a> - What Are Formal Methods?&lt;/li>
+&lt;li>Quanta Magazine &lt;a href="https://www.quantamagazine.org/formal-verification-creates-hacker-proof-code-20160920/" target="_blank" rel="noopener">article&lt;/a> - Hacker-Proof Code Confirmed&lt;/li>
+&lt;li>Vitalik Buterin &lt;a href="https://vitalik.eth.limo/general/2026/05/18/fv.html" target="_blank" rel="noopener">blogpost&lt;/a> - A shallow dive into formal verification&lt;/li>
+&lt;li>Quanta Magazine &lt;a href="https://www.quantamagazine.org/how-the-evercrypt-library-creates-hacker-proof-cryptography-20190402/" target="_blank" rel="noopener">article&lt;/a> - Cryptography This Is Provably Secure&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2605.23109" target="_blank" rel="noopener">Preprint&lt;/a> - Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems&lt;/li>
+&lt;li>Atlas Computing &lt;a href="https://blog.atlascomputing.org/p/cslib-leans-formal-software-foundation" target="_blank" rel="noopener">blogpost&lt;/a> - CSLib: Lean&amp;rsquo;s Formal Software Foundation&lt;/li>
+&lt;li>Lean &lt;a href="https://lean-lang.org/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>CSLib &lt;a href="https://cslib.io" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="meta-science">Meta-science&lt;/h3>
+&lt;ul>
+&lt;li>Patrick Collison &amp;amp; Tyler Cowen &lt;a href="https://marginalrevolution.com/marginalrevolution/2019/07/we-need-a-new-science-of-progress.html" target="_blank" rel="noopener">essay discussion&lt;/a> - We Need a New Science of Progress&lt;/li>
+&lt;li>Federation of American Scientists &lt;a href="https://fas.org/publication/focused-research-organizations-a-new-model-for-scientific-research/" target="_blank" rel="noopener">article&lt;/a> - Focused Research Organizations&lt;/li>
+&lt;li>Sociocracy For All &lt;a href="https://www.sociocracyforall.org/consent-decision-making/" target="_blank" rel="noopener">article&lt;/a> - Consent-based decision-making&lt;/li>
+&lt;/ul>
+&lt;h3 id="referenced-media">Referenced Media&lt;/h3>
+&lt;ul>
+&lt;li>3Blue1Brown &lt;a href="https://www.youtube.com/watch?v=bBC-nXj3Ng4" target="_blank" rel="noopener">video&lt;/a> and &lt;a href="https://www.3blue1brown.com/lessons/bitcoin" target="_blank" rel="noopener">blogpost&lt;/a> - But How Does Bitcoin Actually Work?&lt;/li>
+&lt;li>Rich Sutton &lt;a href="https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf" target="_blank" rel="noopener">essay&lt;/a> - The Bitter Lesson&lt;/li>
+&lt;li>Quinn Slobodian &amp;amp; Ben Tarnoff &lt;a href="https://en.wikipedia.org/wiki/Muskism_%28book%29" target="_blank" rel="noopener">book&lt;/a> - &lt;em>Muskism: A Guide for the Perplexed&lt;/em>&lt;/li>
+&lt;li>Ethan Mollick &lt;a href="https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged" target="_blank" rel="noopener">substack article&lt;/a> Centaurs and Cyborgs on the Jagged Frontier&lt;/li>
+&lt;/ul>
+&lt;h3 id="organizationsprograms-mentioned">Organizations/Programs Mentioned&lt;/h3>
+&lt;ul>
+&lt;li>Protocol Labs &lt;a href="https://www.protocol.ai/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>ARIA (UK) &lt;a href="https://www.aria.org.uk/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>ARIA &lt;a href="https://www.aria.org.uk/programme-safeguarded-ai/" target="_blank" rel="noopener">programme page&lt;/a> - Safeguarded AI&lt;/li>
+&lt;li>DARPA &lt;a href="https://www.darpa.mil" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Renaissance Philanthropy &lt;a href="https://www.renaissancephilanthropy.org/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Theorem &lt;a href="https://theorem.dev/" target="_blank" rel="noopener">website&lt;/a> - AI-first formal verification lab&lt;/li>
+&lt;li>Convergent Research &lt;a href="https://www.convergentresearch.org/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Frontier Model Forum &lt;a href="https://www.frontiermodelforum.org/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Coefficient Giving &lt;a href="https://coefficientgiving.org/" target="_blank" rel="noopener">website&lt;/a> (prev. Open Philanthropy)&lt;/li>
+&lt;li>Survival and Flourishing Fund &lt;a href="https://survivalandflourishing.fund/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>NSF &lt;a href="https://www.nsf.gov/funding/initiatives/nsf-x-labs" target="_blank" rel="noopener">program page&lt;/a> - NSF X-Labs&lt;/li>
+&lt;/ul>
+&lt;h3 id="people-mentioned">People Mentioned&lt;/h3>
+&lt;ul>
+&lt;li>David &amp;ldquo;davidad&amp;rdquo; Dalrymple &lt;a href="https://www.lesswrong.com/posts/pKSmEkSQJsCSTK6nH/an-open-agency-architecture-for-safe-transformative-ai" target="_blank" rel="noopener">essay&lt;/a> - Open Agency Architecture&lt;/li>
+&lt;li>Andrew Critch&amp;rsquo;s &lt;a href="https://acritch.com/" target="_blank" rel="noopener">personal website&lt;/a>&lt;/li>
+&lt;li>Jason Gross&amp;rsquo; &lt;a href="https://github.com/jasongross" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
+&lt;li>Alexandre Rademaker &lt;a href="https://arademaker.github.io/" target="_blank" rel="noopener">personal website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-niche-topics-mentioned">Other Niche Topics Mentioned&lt;/h3>
+&lt;ul>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem" target="_blank" rel="noopener">article&lt;/a> - Arrow&amp;rsquo;s impossibility theorem&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Approval_voting" target="_blank" rel="noopener">article&lt;/a> - Approval voting&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Sortition" target="_blank" rel="noopener">article&lt;/a> - Sortition&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem" target="_blank" rel="noopener">article&lt;/a> - Hume&amp;rsquo;s guillotine / the is-ought problem&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/501%28c%29_organization" target="_blank" rel="noopener">article&lt;/a> - 501(c)(6) nonprofit designation&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Know_your_customer" target="_blank" rel="noopener">article&lt;/a> - Know Your Customer (KYC)&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Mobile_driver%27s_license" target="_blank" rel="noopener">article&lt;/a> - Mobile driver&amp;rsquo;s license (mDL)&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener">article&lt;/a> - Community Notes&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list -->
+&lt;/div></description></item><item><title>Tech Elites and UBI: Unpacking the Discourse</title><link>https://jacob-haimes.github.io/kairos.fm-staging/reclaimingubi/e002/</link><pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/reclaimingubi/e002/</guid><description>&lt;div style="text-align: justify">
 &lt;p>This episode turns a critical eye on the dominant discourse around UBI in the context of AI-driven job disruption, investigating whose interests these narratives actually serve. Talking to experts on UBI policy and AI-elite rhetoric, Joe gets behind the sales pitch, asking whether the UBI we&amp;rsquo;re being offered is a genuinely transformative proposal, or a moral alibi for existing power imbalances? Could it entrench tech-elite power if implemented uncritically and undemocratically, and what would a better alternative look like?&lt;/p>
 &lt;/div>
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
@@ -147,7 +235,7 @@ The Sharpening Mechanism&lt;/li>
 &lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/71f621ad">&lt;/iframe>
 &lt;/div>
 &lt;/div>
-&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.03.07; ASIDES RECORDED 2026.05.01; &lt;a href="XXX" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.03.07; ASIDES RECORDED 2026.05.01; &lt;a href="https://share.transistor.fm/s/71f621ad/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
 &lt;h2 id="chapters">Chapters&lt;/h2>
 &lt;div style="text-align: left; font-family:monospace;">&lt;small>
 00:00:00 ❙ Intro&lt;br>
