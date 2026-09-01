@@ -1,6 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Podcast | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/podcast/index.xml" rel="self" type="application/rss+xml"/><description>Podcast</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Podcast</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link></image><item><title>Mapping Civilization's Resilience Gaps w/ Dr. Evan Miyazono</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e033/</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e033/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Podcast | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/podcast/index.xml" rel="self" type="application/rss+xml"/><description>Podcast</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Podcast</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link></image><item><title>Seven-ish Questions on Data Center Water Use</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e025/</link><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e025/</guid><description>&lt;div style="text-align: justify">
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/2eb5e914">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.07.26; &lt;a href="https://share.transistor.fm/s/2eb5e914/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
+00:00 ❙ Intro&lt;br>
+08:14 ❙ Is It Really an "AI" Data Center?&lt;br>
+13:28 ❙ How Is It Cooled, and Where's the Water From?&lt;br>
+19:48 ❙ Where Is It?&lt;br>
+29:03 ❙ Collosus as a Worked Example&lt;br>
+35:14 ❙ How Is It Powered?&lt;br>
+38:15 ❙ Who Owns It &amp; Who Pays?&lt;br>
+47:58 ❙ Is This Too Complicated? Seven Questions Recapped&lt;br>
+54:35 ❙ Bonus: Data Centers in Space&lt;br>
+58:48 ❙ Outro
+&lt;/small>&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;h3 id="energy--water-use">Energy &amp;amp; Water Use&lt;/h3>
+&lt;ul>
+&lt;li>Our World in Data &lt;a href="https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use" target="_blank" rel="noopener">article&lt;/a> - How Much Energy Do Data Centers and Artificial Intelligence Use?&lt;/li>
+&lt;li>Uptime Institute &lt;a href="https://uptimeinstitute.com/resources/research-and-reports/uptime-institute-global-data-center-survey-results-2025" target="_blank" rel="noopener">report&lt;/a> and &lt;a href="https://nextdc.com/hubfs/Uptime%20Institute%20AI%20Infrastructure%20Survey%202025.pdf" target="_blank" rel="noopener">Summary PDF&lt;/a> - Uptime Institute Global Data Center Survey Results 2025&lt;/li>
+&lt;li>Axis Intelligence &lt;a href="https://axis-intelligence.com/ai-data-center-energy-consumption-statistics/" target="_blank" rel="noopener">article&lt;/a> - AI Data Center Energy Consumption Statistics 2026&lt;/li>
+&lt;li>EcoLogits &lt;a href="https://ecologits.ai/latest/" target="_blank" rel="noopener">webpage&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cooling-water-use--technical-background">Cooling, Water Use &amp;amp; Technical Background&lt;/h3>
+&lt;ul>
+&lt;li>ACM &lt;a href="https://arxiv.org/abs/2506.22773" target="_blank" rel="noopener">paper&lt;/a> - Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2603.02705" target="_blank" rel="noopener">Preprint&lt;/a> - Small Bottle, Big Pipe: Quantifying and Addressing the Impact of Data Centers on Public Water Systems&lt;/li>
+&lt;li>Ground Water Protection Council &lt;a href="https://www.gwpc.org/wp-content/uploads/2024/10/Eric-Olsen.pdf" target="_blank" rel="noopener">presentation&lt;/a> - Data Center Water Usage: Problem or Opportunities?&lt;/li>
+&lt;li>Time &lt;a href="https://time.com/5814276/google-data-centers-water/" target="_blank" rel="noopener">article&lt;/a> - The Secret Cost of Google&amp;rsquo;s Data Centers: Billions of Gallons of Water to Cool Servers&lt;/li>
+&lt;/ul>
+&lt;h3 id="case-studies-community--water-disputes">Case Studies: Community &amp;amp; Water Disputes&lt;/h3>
+&lt;ul>
+&lt;li>Politico &lt;a href="https://www.politico.com/news/2026/05/05/xai-water-reuse-project-musk-ai-spacex-ipo-environmental-project-ee-00896170" target="_blank" rel="noopener">article&lt;/a> - Musk promised his data center would reuse water. That&amp;rsquo;s now stalled.&lt;/li>
+&lt;li>GovTech &lt;a href="https://www.govtech.com/analytics/the-dalles-ore-settles-lawsuit-over-google-data-centers" target="_blank" rel="noopener">article&lt;/a> - The Dalles, Ore. Settles Lawsuit Over Google Data Centers&lt;/li>
+&lt;li>Tom&amp;rsquo;s Hardware &lt;a href="https://www.tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water" target="_blank" rel="noopener">article&lt;/a> - Georgia Data Center Used 29 Million Gallons of Water&lt;/li>
+&lt;li>Post and Courier &lt;a href="https://www.postandcourier.com/business/sc-county-to-disclose-google-data-centers-water-usage-to-settle-legal-battle/article_964c2040-d992-11ef-b88f-6f7e3b73a9a4.html" target="_blank" rel="noopener">article&lt;/a> - SC county to disclose Google data center&amp;rsquo;s water usage to settle legal battle&lt;/li>
+&lt;li>Roanoke Rambler &lt;a href="https://www.roanokerambler.com/water-authority-releases-google-data-center-records-ahead-scheduled-contempt-hearing/" target="_blank" rel="noopener">article&lt;/a> - Water Authority Releases Google Data Center Records Ahead of Scheduled Contempt Hearing&lt;/li>
+&lt;li>Milwaukee Independent &lt;a href="https://www.milwaukeeindependent.com/syndicated/data-centers-trigger-billion-dollar-utility-projects-push-higher-bills-onto-public/" target="_blank" rel="noopener">article&lt;/a> - Data Centers Trigger Billion-Dollar Utility Projects, Push Higher Bills onto Public&lt;/li>
+&lt;li>The Progressive &lt;a href="https://progressive.org/latest/tech-giants-are-trying-to-cover-up-the-environmental-impacts-of-their-data-centers-cooper-20251022/" target="_blank" rel="noopener">article&lt;/a> - Tech Giants Are Trying to Cover Up the Environmental Impacts of Their Data Centers&lt;/li>
+&lt;li>Fortune &lt;a href="https://fortune.com/2026/05/13/data-center-georgia-arizona-water-wars/" target="_blank" rel="noopener">article&lt;/a> - on data center &amp;ldquo;water wars&amp;rdquo; in Georgia and Arizona &lt;em>(headline unverified)&lt;/em>&lt;/li>
+&lt;li>Rain Intelligence &lt;a href="https://www.rainintelligence.com/blog/data-center-water-pollution-litigation" target="_blank" rel="noopener">blog&lt;/a> - The Courthouse Backstop: Data-Center Water Pollution and Amazon&amp;rsquo;s $20.5M Nitrate Settlement&lt;/li>
+&lt;/ul>
+&lt;h3 id="ownership-financing--secrecy">Ownership, Financing &amp;amp; Secrecy&lt;/h3>
+&lt;ul>
+&lt;li>IEEE &lt;a href="https://ieeexplore.ieee.org/abstract/document/11481175" target="_blank" rel="noopener">paper&lt;/a> - Press Release Ethics: Performative Ethics in AI Consortia and Industry Associations&lt;/li>
+&lt;li>Harvard Environmental Law Program &lt;a href="https://eelp.law.harvard.edu/wp-content/uploads/2025/03/Harvard-ELI-Extracting-Profits-from-the-Public.pdf" target="_blank" rel="noopener">PDF&lt;/a> - Extracting Profits from the Public&lt;/li>
+&lt;li>Minnesota Star Tribune &lt;a href="https://www.startribune.com/ndas-code-names-and-shell-companies-how-minnesota-officials-support-data-center-secrecy/601499182" target="_blank" rel="noopener">article&lt;/a> - NDAs, code names and shell companies: How Minnesota officials support data center secrecy&lt;/li>
+&lt;li>Public Citizen &lt;a href="https://www.citizen.org/news/the-secret-data-center-buildout-how-states-can-stop-big-techs-abuse-of-ndas/" target="_blank" rel="noopener">article&lt;/a> - The Secret Data Center Buildout&lt;/li>
+&lt;li>TechRadar Pro &lt;a href="https://www.techradar.com/pro/subprime-data-center-crisis-could-threaten-the-global-economy-in-a-way-similar-to-the-2008-subprime-mortgage-debacle" target="_blank" rel="noopener">article&lt;/a> - &amp;lsquo;Subprime data center crisis&amp;rsquo; could threaten the global economy in a way similar to the 2008 subprime mortgage debacle&lt;/li>
+&lt;li>Futurism &lt;a href="https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet" target="_blank" rel="noopener">article&lt;/a> - AI Companies Are Trying to Hide a Staggering Amount of Debt&lt;/li>
+&lt;/ul>
+&lt;h3 id="videos-and-space-data-center-bs">Videos and Space Data Center BS&lt;/h3>
+&lt;ul>
+&lt;li>YouTube &lt;a href="https://www.youtube.com/watch?v=H_c6MWk7PQc" target="_blank" rel="noopener">video&lt;/a> - Why is Everyone So Wrong About AI Water Use?&lt;/li>
+&lt;li>YouTube &lt;a href="https://www.youtube.com/watch?v=wx7ToT0G0qo" target="_blank" rel="noopener">video&lt;/a> - Data Center Water is a Distraction&lt;/li>
+&lt;li>CivAI &lt;a href="https://civai.org/blog/space-data-centers" target="_blank" rel="noopener">blog&lt;/a> - Data centers in space makes no sense&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Mapping Civilization's Resilience Gaps w/ Dr. Evan Miyazono</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e033/</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e033/</guid><description>&lt;div style="text-align: justify">
 Dr. Evan Miyazono joins Jacob to talk about his path from quantum networking and Protocol Labs to founding Atlas Computing. They discuss why Atlas moved away from formal methods research and toward what Evan calls “field strategy”: identifying important problems, figuring out what interventions could actually address them, and finding the people best positioned to make them happen. The conversation also covers the resilience gap map, coordination failures, AI safety, "value alignment," and the question of how to decide what work is worth doing when there’s no obvious organization responsible for it.
-&lt;p>Check out the &lt;a href="https://youtu.be/rsjVgoHFZM4" target="_blank" rel="noopener">video version&lt;/a> of this podcast on the Kairos.fm YouTube channel, or the extended version on &lt;a href="https://www.patreon.com/Kairosfm/posts/mapping-gaps-w-166878192" target="_blank" rel="noopener">Patreon&lt;/a>!&lt;/p>
+&lt;p>Check out the &lt;a href="https://youtu.be/DhnDvHL9DKo" target="_blank" rel="noopener">video version&lt;/a> of this podcast on the Kairos.fm YouTube channel, or the extended version on &lt;a href="https://www.patreon.com/Kairosfm/posts/mapping-gaps-w-166878192" target="_blank" rel="noopener">Patreon&lt;/a>!&lt;/p>
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
 &lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/a4e4e51c">&lt;/iframe>
