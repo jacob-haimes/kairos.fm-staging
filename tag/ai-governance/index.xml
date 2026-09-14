@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Governance | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/ai-governance/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/tag/ai-governance/index.xml" rel="self" type="application/rss+xml"/><description>AI Governance</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>AI Governance</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/ai-governance/</link></image><item><title>Seven-ish Questions on Data Center Water Use</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e025/</link><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e025/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Governance | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/ai-governance/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/tag/ai-governance/index.xml" rel="self" type="application/rss+xml"/><description>AI Governance</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>AI Governance</title><link>https://jacob-haimes.github.io/kairos.fm-staging/tag/ai-governance/</link></image><item><title>Sandboxes are Optional Now, Apparently</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e026/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e026/</guid><description>&lt;div style="text-align: justify">
+&lt;p>Late July brought a wave of frontier AI agents slipping their (very loose) leashes: an OpenAI model wandered loose inside Hugging Face&amp;rsquo;s infrastructure for a week, Anthropic and Meta admitted to similar incidents, and UK AISI clocked their own model breaking containment during an independent eval. Meanwhile, a home user&amp;rsquo;s OpenClaw agent quietly hijacked a stranger&amp;rsquo;s gym booking. We dig into why &amp;ldquo;the whole internet is held together by safety pins,&amp;rdquo; whether billion-dollar labs get to plead &amp;ldquo;security is hard,&amp;rdquo; why software engineering mostly isn&amp;rsquo;t real engineering, and what any of this means for the coming fight over open-weight models.&lt;/p>
+&lt;p>&lt;em>Correction: the model used by HuggingFace to aid in diagnosis of the incident was GLM 5.2, not Kimi K3.&lt;/em>&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/c13ddcf5">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.08.11; &lt;a href="https://share.transistor.fm/s/c13ddcf5/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
+00:00 ❙ Intro&lt;br>
+01:25 ❙ The OpenAI/Hugging Face Containment Escape&lt;br>
+09:54 ❙ Cost Centers vs. Profit Centers (Praise for AISI)&lt;br>
+17:37 ❙ "You Do Not Get to Fuck Up This Much"&lt;br>
+22:17 ❙ Doomers, Utter Alignment Failure &amp; How Hacks Actually Happen&lt;br>
+37:53 ❙ "Forcing the End" and What Can Anyone Actually Do?&lt;br>
+47:34 ❙ Igor's Pivot to Open-Weight Models and Steelmanning the Case Against Them&lt;br>
+58:01 ❙ Outro &amp; Sign-off
+&lt;/small>&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Hugging Face &lt;a href="https://huggingface.co/blog/agent-intrusion-technical-timeline" target="_blank" rel="noopener">blog&lt;/a> - Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident&lt;/li>
+&lt;li>METR &lt;a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/" target="_blank" rel="noopener">report&lt;/a> - Brief independent investigation of agents&amp;rsquo; behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident&lt;/li>
+&lt;li>UK AI Security Institute &lt;a href="https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing" target="_blank" rel="noopener">incident report&lt;/a> - Incident Report: unsanctioned agent behaviour during cyber testing&lt;/li>
+&lt;/ul>
+&lt;h3 id="incident-coverage">Incident Coverage&lt;/h3>
+&lt;ul>
+&lt;li>OpenAI &lt;a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank" rel="noopener">post&lt;/a> - OpenAI and Hugging Face partner to address security incident during model evaluation&lt;/li>
+&lt;li>The Guardian &lt;a href="https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker" target="_blank" rel="noopener">article&lt;/a> - Be skeptical of OpenAI’s rogue hacker agent story&lt;/li>
+&lt;li>ABC News &lt;a href="https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986" target="_blank" rel="noopener">article&lt;/a> - AI assistant hacks gym website in first known Australian autonomous cyber attack&lt;/li>
+&lt;li>FelonyBench &lt;a href="https://felonybench.org/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="security-posture-and-software-engineering">Security Posture and Software &amp;ldquo;Engineering&amp;rdquo;&lt;/h3>
+&lt;ul>
+&lt;li>Hillel Wayne &lt;a href="https://www.hillelwayne.com/post/are-we-really-engineers/" target="_blank" rel="noopener">essay&lt;/a> - Are We Really Engineers?&lt;/li>
+&lt;li>PortSwigger &lt;a href="https://portswigger.net/web-security/ssrf" target="_blank" rel="noopener">explainer&lt;/a> - What is SSRF (server-side request forgery)?&lt;/li>
+&lt;li>TechCrunch &lt;a href="https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/" target="_blank" rel="noopener">article&lt;/a> - Frontier AI labs still won&amp;rsquo;t say how they&amp;rsquo;d contain a rogue model&lt;/li>
+&lt;/ul>
+&lt;h3 id="misc">Misc.&lt;/h3>
+&lt;ul>
+&lt;li>Sen. Bernie Sanders &lt;a href="https://www.sanders.senate.gov/wp-content/uploads/AI-Pause-Letter-FINAL.pdf" target="_blank" rel="noopener">letter&lt;/a> to Altman, Amodei, and Zuckerberg on an AI pause&lt;/li>
+&lt;li>Congressional &lt;a href="https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident-1.pdf" target="_blank" rel="noopener">letter&lt;/a> to Altman on the incident&lt;/li>
+&lt;li>Wikipedia &lt;a href="https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots" target="_blank" rel="noopener">page&lt;/a> - Deaths linked to chatbots&lt;/li>
+&lt;li>Deutsche Welle &lt;a href="https://www.dw.com/en/openai-apologizes-for-not-reporting-canada-mass-shooter/a-76929817" target="_blank" rel="noopener">article&lt;/a> - OpenAI apologizes for not reporting Canada mass shooter&lt;/li>
+&lt;li>PBS Frontline &lt;a href="https://www.pbs.org/wgbh/pages/frontline/shows/apocalypse/readings/forcing.html" target="_blank" rel="noopener">essay&lt;/a> - Forcing the End (Lawrence Wright)&lt;/li>
+&lt;li>Patrick Dahlke &lt;a href="https://patrickdahlke.com/posts/hacker-paragraph/" target="_blank" rel="noopener">blogpost&lt;/a> - Germany to decriminalize Ethical Hacking&lt;/li>
+&lt;li>Taylor Troesh (satirical) &lt;a href="https://taylor.town/leaving-openai" target="_blank" rel="noopener">blogpost&lt;/a> - Leaving OpenAI&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Seven-ish Questions on Data Center Water Use</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e025/</link><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e025/</guid><description>&lt;div style="text-align: justify">
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
 &lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/2eb5e914">&lt;/iframe>
