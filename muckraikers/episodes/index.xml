@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>muckrAIkers | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/episodes/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/episodes/index.xml" rel="self" type="application/rss+xml"/><description>muckrAIkers</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>muckrAIkers</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/episodes/</link></image><item><title>Sandboxes are Optional Now, Apparently</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e026/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e026/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>muckrAIkers | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/episodes/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/episodes/index.xml" rel="self" type="application/rss+xml"/><description>muckrAIkers</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>muckrAIkers</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/episodes/</link></image><item><title>Bored in the AGI Era</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e027/</link><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e027/</guid><description>&lt;div style="text-align: justify">
+&lt;p>New models keep dropping, but do they change anything? Jacob explains why he&amp;rsquo;s checked out. Igor argues it&amp;rsquo;s worth tracking where the storyline and the evidence diverge. They cover Astra vs. Fable, the AGI claims, labs moving the benchmarks, cheap models catching up, what inference really costs, disputed math results, and why looped transformers worry people who care about monitorability. They close with IPO rumors, data center backlash, and the politics of the winter ahead.&lt;/p>
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/6b54856d">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.09.08; &lt;a href="https://share.transistor.fm/s/6b54856d/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
+00:00 ❙ Intro&lt;br>
+00:23 ❙ Why We're Bored of Model Drops&lt;br>
+08:26 ❙ AGI Claims and Moving Benchmarks&lt;br>
+15:56 ❙ Sold vs. Delivered&lt;br>
+19:16 ❙ IPOs and the Cost of Inference&lt;br>
+25:06 ❙ Astra, Math Claims, and Looped Transformers&lt;br>
+31:11 ❙ Winter Predictions&lt;br>
+39:44 ❙ Outro
+&lt;/small>&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;h3 id="models-benchmarks--hype">Models, Benchmarks &amp;amp; Hype&lt;/h3>
+&lt;ul>
+&lt;li>Forbes &lt;a href="https://www.forbes.com/sites/anishasircar/2026/06/16/anthropic-disabled-fable-5-and-mythos-5-after-a-us-export-control-order-heres-what-happened/" target="_blank" rel="noopener">article&lt;/a> - Anthropic Disabled Fable 5 And Mythos 5 After A U.S. Export-Control Order. Here&amp;rsquo;s What Happened&lt;/li>
+&lt;li>METR &lt;a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/" target="_blank" rel="noopener">report&lt;/a> - Brief independent investigation of agents&amp;rsquo; behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident&lt;/li>
+&lt;li>Sebastian Raschka &lt;a href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and" target="_blank" rel="noopener">blogpost&lt;/a> - GPT-6 Astra, looped transformers, and hidden reasoning&lt;/li>
+&lt;li>ARC Prize &lt;a href="https://arcprize.org/blog/astra" target="_blank" rel="noopener">blogpost&lt;/a> - OpenAI&amp;rsquo;s GPT-6 Astra on ARC-AGI-3&lt;/li>
+&lt;li>Artificial Analysis &lt;a href="https://artificialanalysis.ai/articles/gpt-5-6-intelligence-vs-cost-across-sol-terra-luna" target="_blank" rel="noopener">article&lt;/a> - How GPT-5.6 Sol, Terra, Luna compare on intelligence vs cost&lt;/li>
+&lt;li>One Useful Thing &lt;a href="https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged" target="_blank" rel="noopener">blogpost&lt;/a> - Centaurs and Cyborgs on the Jagged Frontier&lt;/li>
+&lt;li>Bryan Cantrill &lt;a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/" target="_blank" rel="noopener">blogpost&lt;/a> - The revolt of the reader&lt;/li>
+&lt;li>Fortune &lt;a href="https://fortune.com/2026/09/08/openai-says-it-cracked-navier-stokes-math-grand-challenge-buckmaster-accusation-cheating-intimidation-tao-lament/" target="_blank" rel="noopener">article&lt;/a> - OpenAI says it cracked Navier-Stokes, one of math&amp;rsquo;s grand challenges&lt;/li>
+&lt;/ul>
+&lt;h3 id="bubble-talk">Bubble Talk&lt;/h3>
+&lt;ul>
+&lt;li>CNBC &lt;a href="https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html" target="_blank" rel="noopener">article&lt;/a> - OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut&lt;/li>
+&lt;li>Fortune &lt;a href="https://fortune.com/2026/02/25/hyperscaler-risk-off-balance-sheet-662-billion-data-center-commitments-meta-amazon-microsoft-oracle-alphabet/" target="_blank" rel="noopener">article&lt;/a> - Moody&amp;rsquo;s flags $662 billion risk at the heart of the data center build-out by just 5 companies&lt;/li>
+&lt;li>Dwarkesh Podcast &lt;a href="https://www.dwarkesh.com/p/dario-amodei-2" target="_blank" rel="noopener">episode&lt;/a> - Dario Amodei — &amp;ldquo;We are near the end of the exponential&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h3 id="datacenters">Datacenters&lt;/h3>
+&lt;ul>
+&lt;li>Google &lt;a href="https://arxiv.org/abs/2508.15734" target="_blank" rel="noopener">report&lt;/a> - Measuring the environmental impact of delivering AI at Google Scale&lt;/li>
+&lt;li>PC Gamer &lt;a href="https://www.pcgamer.com/software/ai/theyre-just-hiding-the-critical-information-google-says-its-gemini-ai-sips-a-mere-five-drops-of-water-per-text-prompt-but-experts-disagree-with-its-findings/" target="_blank" rel="noopener">article&lt;/a> - &amp;lsquo;They&amp;rsquo;re just hiding the critical information&amp;rsquo;: Google says its Gemini AI sips a mere &amp;lsquo;five drops&amp;rsquo; of water per text prompt, but experts disagree with its findings&lt;/li>
+&lt;li>Axios &lt;a href="https://www.axios.com/2026/08/20/data-center-uproar-2026-midterms" target="_blank" rel="noopener">article&lt;/a> - Data center uproar scrambles the midterm election&lt;/li>
+&lt;/ul>
+&lt;!-- end of the list --></description></item><item><title>Sandboxes are Optional Now, Apparently</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e026/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e026/</guid><description>&lt;div style="text-align: justify">
 &lt;p>Late July brought a wave of frontier AI agents slipping their (very loose) leashes: an OpenAI model wandered loose inside Hugging Face&amp;rsquo;s infrastructure for a week, Anthropic and Meta admitted to similar incidents, and UK AISI clocked their own model breaking containment during an independent eval. Meanwhile, a home user&amp;rsquo;s OpenClaw agent quietly hijacked a stranger&amp;rsquo;s gym booking. We dig into why &amp;ldquo;the whole internet is held together by safety pins,&amp;rdquo; whether billion-dollar labs get to plead &amp;ldquo;security is hard,&amp;rdquo; why software engineering mostly isn&amp;rsquo;t real engineering, and what any of this means for the coming fight over open-weight models.&lt;/p>
 &lt;p>&lt;em>Correction: the model used by HuggingFace to aid in diagnosis of the incident was GLM 5.2, not Kimi K3.&lt;/em>&lt;/p>
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
