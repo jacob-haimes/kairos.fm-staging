@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/index.xml" rel="self" type="application/rss+xml"/><description>Home</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Home</title><link>https://jacob-haimes.github.io/kairos.fm-staging/</link></image><item><title>Bored in the AGI Era</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e027/</link><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e027/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/index.xml" rel="self" type="application/rss+xml"/><description>Home</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Home</title><link>https://jacob-haimes.github.io/kairos.fm-staging/</link></image><item><title>Pulling the Ladder Up on Math</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e028/</link><pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e028/</guid><description>&lt;div style="text-align: justify">
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/9669c756">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">EPISODE RECORDED 2026.10.02; &lt;a href="https://share.transistor.fm/s/9669c756/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/a>&lt;/div>
+&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
+00:00 ❙ Intro&lt;br>
+00:52 ❙ What OpenAI Is Claiming&lt;br>
+05:22 ❙ What a Proof is Really Doing&lt;br>
+12:15 ❙ Open Letter and Fields Medalists&lt;br>
+24:27 ❙ What Do Mathematicians Do&lt;br>
+32:04 ❙ Where Ideas Come From&lt;br>
+43:14 ❙ What if they Dump 100 Proofs Tomorrow?&lt;br>
+49:13 ❙ Why Now and What You Can Do&lt;br>
+54:10 ❙ Outro
+&lt;/small>&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;h3 id="openais-navier-stokes-claim">OpenAI&amp;rsquo;s Navier-Stokes Claim&lt;/h3>
+&lt;ul>
+&lt;li>OpenAI &lt;a href="https://openai.com/index/navier-stokes-solution/" target="_blank" rel="noopener">blogpost&lt;/a> - On the Navier–Stokes Millennium Prize Problem&lt;/li>
+&lt;li>Wccftech &lt;a href="https://wccftech.com/a-mathematician-working-on-the-navier-stokes-millennium-prize-problem-now-wonders-if-openai-stole-his-notes-that-he-stored-in-codex/" target="_blank" rel="noopener">article&lt;/a> - A Mathematician Working On The Navier-Stokes Millennium Prize Problem Now Wonders If OpenAI Stole His Notes That He Stored In Codex&lt;/li>
+&lt;li>Clay Mathematics Institute &lt;a href="https://www.claymath.org/news/navier-stokes-announcement/" target="_blank" rel="noopener">announcement&lt;/a> - Navier-Stokes Announcement&lt;/li>
+&lt;/ul>
+&lt;h3 id="letters-dissents--advisory-groups">Letters, Dissents &amp;amp; Advisory Groups&lt;/h3>
+&lt;ul>
+&lt;li>Fields Medallists&amp;rsquo; open &lt;a href="https://mathandai.org" target="_blank" rel="noopener">letter&lt;/a> - A Severe Misalignment of AI in Mathematics&lt;/li>
+&lt;li>Timothy Gowers &lt;a href="https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/" target="_blank" rel="noopener">blogpost&lt;/a> - Why I didn&amp;rsquo;t sign the Fields medallists&amp;rsquo; letter&lt;/li>
+&lt;li>Terence Tao Mastodon &lt;a href="https://mathstodon.xyz/@tao/117230983266837293" target="_blank" rel="noopener">thread&lt;/a> - On open problems being mined as a non-renewable resource&lt;/li>
+&lt;li>OpenAI &lt;a href="https://openai.com/index/advisory-group-on-mathematics-and-ai/" target="_blank" rel="noopener">press-release&lt;/a> - Advisory Group on Mathematics and Artificial Intelligence&lt;/li>
+&lt;/ul>
+&lt;h3 id="proofs-process--performativity">Proofs, Process &amp;amp; Performativity&lt;/h3>
+&lt;ul>
+&lt;li>Grant Sanderson guest &lt;a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/" target="_blank" rel="noopener">post&lt;/a> - If math is more than proof, we need to better celebrate the rest of it&lt;/li>
+&lt;li>ICML &lt;a href="https://arxiv.org/abs/2002.06673" target="_blank" rel="noopener">paper&lt;/a> - Performative Prediction&lt;/li>
+&lt;li>Economy and Society &lt;a href="https://doi.org/10.1080/03085147.2011.616145" target="_blank" rel="noopener">paper&lt;/a> - On the Performative Power of Financial Models&lt;/li>
+&lt;li>Anthropic &lt;a href="https://www.anthropic.com/research/claude-shaped-science" target="_blank" rel="noopener">blogpost&lt;/a> - Claude-shaped science&lt;/li>
+&lt;/ul>
+&lt;h3 id="why-now-funding--ipo-pressure">Why Now? Funding &amp;amp; IPO Pressure&lt;/h3>
+&lt;ul>
+&lt;li>R&amp;amp;D World &lt;a href="https://www.rdworldonline.com/openai-reportedly-seeks-30-billion-after-delaying-ipo/" target="_blank" rel="noopener">article&lt;/a> - OpenAI reportedly seeks $30 billion after delaying IPO&lt;/li>
+&lt;li>CNBC &lt;a href="https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html" target="_blank" rel="noopener">article&lt;/a> - Anthropic&amp;rsquo;s IPO prospectus shows sweeping AI vision, surging costs: Reuters&lt;/li>
+&lt;li>OpenAI &lt;a href="https://openai.com/the-defense-factory/" target="_blank" rel="noopener">press-release&lt;/a> - Defense Factory&lt;/li>
+&lt;/ul>
+&lt;h3 id="further-reading">Further Reading&lt;/h3>
+&lt;ul>
+&lt;li>Logicomix &lt;a href="https://www.logicomix.com/en/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Bored in the AGI Era</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e027/</link><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e027/</guid><description>&lt;div style="text-align: justify">
 &lt;p>New models keep dropping, but do they change anything? Jacob explains why he&amp;rsquo;s checked out. Igor argues it&amp;rsquo;s worth tracking where the storyline and the evidence diverge. They cover Astra vs. Fable, the AGI claims, labs moving the benchmarks, cheap models catching up, what inference really costs, disputed math results, and why looped transformers worry people who care about monitorability. They close with IPO rumors, data center backlash, and the politics of the winter ahead.&lt;/p>
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
