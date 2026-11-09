@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Podcast | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/podcast/index.xml" rel="self" type="application/rss+xml"/><description>Podcast</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Podcast</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link></image><item><title>Pulling the Ladder Up on Math</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e028/</link><pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e028/</guid><description>&lt;div style="text-align: justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Podcast | Kairos.fm</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link><atom:link href="https://jacob-haimes.github.io/kairos.fm-staging/podcast/index.xml" rel="self" type="application/rss+xml"/><description>Podcast</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0000</lastBuildDate><image><url>https://jacob-haimes.github.io/kairos.fm-staging/media/logo_hu3665961374755788175.png</url><title>Podcast</title><link>https://jacob-haimes.github.io/kairos.fm-staging/podcast/</link></image><item><title>Unbrokered Agent Coordination w/ Alex Obadia</title><link>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e035/</link><pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/intoaisafety/e035/</guid><description>&lt;div style="text-align: justify">
+AI agents will eventually be able to negotiate deals, share information, and coordinate with systems in the physical world with little human involvement. What would it take to make those interactions secure, and what happens when agents don't share the same interests? Jacob is joined by Alex Obadia, program director of Scaling Trust at the UK's Advanced Research and Invention Agency (ARIA), to discuss the research and infrastructure needed for secure multi-agent coordination. They explore cryptography and privacy-preserving tools, the Arena testbed for observing agent behavior, and the decision to use profit as a measure of performance. They also consider the implications of these ideas in safety, accountability, and inequality.
+&lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
+&lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
+&lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/508e541a">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;div style="font-size: x-small;font-style: italic;padding-left: 2.25rem;">INTERVIEW RECORDED 2026.10.21; ASIDES RECORDED 2026.11.02; &lt;a href="https://share.transistor.fm/s/508e541a/transcript.txt" target="_blank" rel="noreferrer noopener">TRANSCRIPT&lt;/a>&lt;/div>
+&lt;h2 id="chapters">Chapters&lt;/h2>
+&lt;div style="text-align: left; font-family:monospace;">&lt;small>
+00:00:00 ❙ Intro&lt;br>
+00:04:52 ❙ Alex's Background&lt;br>
+00:09:34 ❙ Joining ARIA&lt;br>
+00:13:39 ❙ What is ARIA?&lt;br>
+00:18:57 ❙ The Three Tracks: Tools, Theory, and Testbed&lt;br>
+00:24:01 ❙ Salary Negotion Without Intermediaries&lt;br>
+00:29:42 ❙ Protecting People from Middlemen&lt;br>
+00:34:39 ❙ The Arena&lt;br>
+00:40:29 ❙ Does Profit Make Safety Second-Class?&lt;br>
+00:54:38 ❙ Who's Liable When an Agent Breaks a Deal?&lt;br>
+01:02:53 ❙ Do Agents Reduce Friction or Move It?&lt;br>
+01:14:02 ❙ Is Scaling Trust a Safety Program?&lt;br>
+01:21:48 ❙ Will Agents Magnify Inequality?&lt;br>
+01:29:19 ❙ ARIA's Freedom of Information Act Exemption&lt;br>
+01:33:19 ❙ How to Get Involved&lt;br>
+01:39:16 ❙ Outro
+&lt;/small>&lt;/div>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>Alex&amp;rsquo;s personal &lt;a href="https://alexobadia.com/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Flashbots &lt;a href="https://www.flashbots.net/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Quantum Punks &lt;a href="https://quantumpunks.org/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Zero Knowledge &lt;a href="https://zeroknowledge.fm/podcast/360" target="_blank" rel="noopener">podcast episode&lt;/a> - Quantum Punks with Alex and Nicola&lt;/li>
+&lt;/ul>
+&lt;h3 id="aria">ARIA&lt;/h3>
+&lt;ul>
+&lt;li>ARIA &lt;a href="https://aria.org.uk/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>ARIA Trust Everything, Everywhere &lt;a href="https://aria.org.uk/opportunity-spaces/trust-everything-everywhere" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="scaling-trust">Scaling Trust&lt;/h3>
+&lt;ul>
+&lt;li>ARIA Scaling Trust Programme &lt;a href="https://aria.org.uk/opportunity-spaces/trust-everything-everywhere/scaling-trust" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>ARIA &lt;a href="https://aria.org.uk/media/dkhlumky/scaling-trust-programme-thesis.pdf" target="_blank" rel="noopener">report&lt;/a> - Scaling Trust Programme Thesis&lt;/li>
+&lt;li>Scaling Trust community &lt;a href="https://scalingtrust.org.uk/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Scaling Trust &lt;a href="https://scalingtrust.org.uk/blog/without-intermediaries/" target="_blank" rel="noopener">blog post&lt;/a> - Without Intermediaries&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-arena">The Arena&lt;/h3>
+&lt;ul>
+&lt;li>Scaling Trust Arena &lt;a href="https://arena.scalingtrust.org.uk/docs/spec" target="_blank" rel="noopener">spec&lt;/a>&lt;/li>
+&lt;li>Scaling Trust &lt;a href="https://scalingtrust.org.uk/blog/agentic-economic-zone/" target="_blank" rel="noopener">blogpost&lt;/a> - Agentic Economic Zone&lt;/li>
+&lt;li>Scaling Trust &lt;a href="https://scalingtrust.org.uk/blog/update-on-the-scaling-trust-arena/" target="_blank" rel="noopener">blogpost&lt;/a> - Update on the Scaling Trust Arena&lt;/li>
+&lt;/ul>
+&lt;h3 id="andon-labs">Andon Labs&lt;/h3>
+&lt;ul>
+&lt;li>Andon Labs &lt;a href="https://andonlabs.com/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Anthropic &lt;a href="https://anthropic.com/research/project-vend-1" target="_blank" rel="noopener">press release&lt;/a> - Project Vend&lt;/li>
+&lt;li>Andon Labs &lt;a href="https://andonlabs.com/blog/opus-5-vending-bench" target="_blank" rel="noopener">blogpost&lt;/a> - Opus 5 on Vending-Bench&lt;/li>
+&lt;li>TechCrunch &lt;a href="https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/" target="_blank" rel="noopener">article&lt;/a> - Claude Opus 5 became downright ruthless when tasked with running a vending machine&lt;/li>
+&lt;li>Andon Café &lt;a href="https://andonlabs.com/cafe" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Simon Willison&amp;rsquo;s Weblog &lt;a href="https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/" target="_blank" rel="noopener">blog post&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="why-friction-matters">Why Friction Matters&lt;/h3>
+&lt;ul>
+&lt;li>Owen Haacke, The Hill &lt;a href="https://thehill.com/opinion/technology/5790581-app-only-services-inequality/amp/" target="_blank" rel="noopener">op-ed&lt;/a> - Participation in society shouldn&amp;rsquo;t require a smartphone&lt;/li>
+&lt;li>ASU News &lt;a href="https://news.asu.edu/20190218-solutions-asu-how-does-car-ownership-affect-income-opportunity" target="_blank" rel="noopener">article&lt;/a> - How car ownership affects income opportunity&lt;/li>
+&lt;li>Robert Half &lt;a href="https://press.roberthalf.com/2026-03-10-Robert-Half-survey-67-of-HR-leaders-report-AI-generated-applications-are-slowing-hiring" target="_blank" rel="noopener">press release&lt;/a> - Robert Half survey: 67% of HR leaders report AI-generated applications are slowing hiring&lt;/li>
+&lt;li>George Monbiot &lt;a href="https://www.monbiot.com/2006/10/19/selling-indulgences/" target="_blank" rel="noopener">column&lt;/a> - Selling Indulgences&lt;/li>
+&lt;li>Michael Sandel, The New York Times &lt;a href="https://www.nytimes.com/1997/12/15/opinion/it-s-immoral-to-buy-the-right-to-pollute.html" target="_blank" rel="noopener">op-ed&lt;/a> - It&amp;rsquo;s Immoral to Buy the Right to Pollute&lt;/li>
+&lt;/ul>
+&lt;h3 id="negotiation-studies">Negotiation Studies&lt;/h3>
+&lt;ul>
+&lt;li>ICML &lt;a href="https://arxiv.org/abs/2506.00073" target="_blank" rel="noopener">paper&lt;/a> - The Automated but Risky Game&lt;/li>
+&lt;li>Zhu et al. &lt;a href="https://shenzhezhu.github.io/A2A-NT/" target="_blank" rel="noopener">project page&lt;/a>&lt;/li>
+&lt;li>Anthropic &lt;a href="https://www.anthropic.com/features/project-deal" target="_blank" rel="noopener">press release&lt;/a> - Project Deal&lt;/li>
+&lt;/ul>
+&lt;h3 id="freedom-of-information-exemption">Freedom of Information Exemption&lt;/h3>
+&lt;ul>
+&lt;li>Nature &lt;a href="https://www.nature.com/articles/d41586-022-00226-z" target="_blank" rel="noopener">article&lt;/a> - UK &amp;lsquo;DARPA&amp;rsquo; should let the sunshine in&lt;/li>
+&lt;li>The Guardian &lt;a href="https://www.theguardian.com/technology/2026/may/03/uk-invention-agency-aria-pledges-70-million-public-money-us-tech-venture-capital-dominic-cummings" target="_blank" rel="noopener">article&lt;/a> - UK &amp;lsquo;invention agency&amp;rsquo; grants £50m of public money to US tech and venture capital firms&lt;/li>
+&lt;/ul>
+&lt;h3 id="other-people-and-ideas-mentioned">Other People and Ideas Mentioned&lt;/h3>
+&lt;ul>
+&lt;li>Jon Gertner &lt;a href="https://en.wikipedia.org/wiki/The_Idea_Factory" target="_blank" rel="noopener">book&lt;/a> - &lt;em>The Idea Factory&lt;/em>&lt;/li>
+&lt;li>Benjamin Reinhardt&amp;rsquo;s &lt;a href="https://www.benjaminreinhardt.com/about" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;li>Eric Hughes &lt;a href="https://www.activism.net/cypherpunk/manifesto.html" target="_blank" rel="noopener">manifesto&lt;/a> - A Cypherpunk&amp;rsquo;s Manifesto&lt;/li>
+&lt;li>Timothy C. May &lt;a href="https://nakamotoinstitute.org/library/crypto-anarchist-manifesto/" target="_blank" rel="noopener">manifesto&lt;/a> - The Crypto Anarchist Manifesto&lt;/li>
+&lt;li>The Morning Paper &lt;a href="https://blog.acolyer.org/2014/12/01/protocols-for-secure-computations/" target="_blank" rel="noopener">blog post&lt;/a> - Protocols for secure computations&lt;/li>
+&lt;li>Computational Thinking &lt;a href="https://www.youtube.com/watch?v=_kLET4k2xBQ" target="_blank" rel="noopener">video&lt;/a> - Multi-party computation&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title>Pulling the Ladder Up on Math</title><link>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e028/</link><pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate><guid>https://jacob-haimes.github.io/kairos.fm-staging/muckraikers/e028/</guid><description>&lt;div style="text-align: justify">
 &lt;div class="flex flex-col items-center max-w-screen-lg mx-auto px-8 justify-center pt-6">
 &lt;div style="border-radius: 10px; overflow: hidden; width: 100%; background-color: #1B4066;">
 &lt;iframe id="transistor" style="visibility:hidden;" onload="this.style.visibility='visible';" width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://share.transistor.fm/e/9669c756">&lt;/iframe>
